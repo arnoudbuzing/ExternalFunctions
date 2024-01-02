@@ -23,7 +23,10 @@ PacletObject[
           "ArnoudBuzing`ExternalFunctions`DiscreteSineTransform",
           "ArnoudBuzing`ExternalFunctions`InverseDiscreteSineTransform",
           "ArnoudBuzing`ExternalFunctions`MatrixBandwidth",
-          "ArnoudBuzing`ExternalFunctions`AcentricFactor"
+          "ArnoudBuzing`ExternalFunctions`AcentricFactor",
+          "ArnoudBuzing`ExternalFunctions`StielPolarFactor",
+          "ArnoudBuzing`ExternalFunctions`LeeKeslerOmega"
+        
         }
       },
       {
