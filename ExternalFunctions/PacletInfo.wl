@@ -22,7 +22,8 @@ PacletObject[
           "ArnoudBuzing`ExternalFunctions`InverseDiscreteCosineTransform",
           "ArnoudBuzing`ExternalFunctions`DiscreteSineTransform",
           "ArnoudBuzing`ExternalFunctions`InverseDiscreteSineTransform",
-          "ArnoudBuzing`ExternalFunctions`MatrixBandwidth"
+          "ArnoudBuzing`ExternalFunctions`MatrixBandwidth",
+          "ArnoudBuzing`ExternalFunctions`AcentricFactor"
         }
       },
       {

@@ -1,3 +1,5 @@
+ClearAll["ArnoudBuzing`ExternalFunctions`*"];
+
 BeginPackage["ArnoudBuzing`ExternalFunctions`"];
 
 LoadExternalFunction;
@@ -10,6 +12,8 @@ DiscreteSineTransform;
 InverseDiscreteSineTransform;
 
 MatrixBandwidth;
+
+AcentricFactor;
 
 Begin["`Private`"];
 
@@ -41,11 +45,11 @@ LoadExternalFunction["Python", fun_String, extra_String : ""] := Module[{compone
   Symbol[wl]
   ]
 
-(*
+(*****
+  
+  SciPy
 
-SciPy
-
-*)
+*****)
 
 (* Fourier Transforms *)
 FastFourierTransform := ( FastFourierTransform = LoadExternalFunction["Python", "scipy.fft.fft"] );
@@ -61,6 +65,15 @@ MatrixBandwidth := (
   MatrixBandwidth = LoadExternalFunction["Python", "lambda x: scipy.linalg.bandwidth(numpy.array(x))"] 
   );
 
+(*****
+
+  Chemicals
+
+*****)
+
+AcentricFactor[cas_String] := LoadExternalFunction["Python", "chemicals.acentric.omega"][cas];
+AcentricFactor[ei_ExternalIdentifier] := LoadExternalFunction["Python", "chemicals.acentric.omega"][ei["ExternalID"]];
+AcentricFactor[e_Entity] := LoadExternalFunction["Python", "chemicals.acentric.omega"][First[e[EntityProperty["Chemical","CASRegistryNumber"]]]["ExternalID"]];
 
 End[];
 EndPackage[];
