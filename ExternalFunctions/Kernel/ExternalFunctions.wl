@@ -15,7 +15,7 @@ MatrixBandwidth;
 AcentricFactor;
 StielPolarFactor;
 LeeKeslerOmega;
-KeplerLightCurve;
+KeplerLightCurves;
 
 
 Begin["`Private`"];

@@ -311,13 +311,13 @@ factor", "InformationGridButton"],
                  ButtonNote->"ArnoudBuzing`ExternalFunctions`",
                  Evaluator->Automatic], 
                 ButtonBox[
-                 StyleBox["KeplerLightCurve", "InformationGridButton"],
+                 StyleBox["KeplerLightCurves", "InformationGridButton"],
                  Appearance->None,
                  BaseStyle->"InformationGridLink",
                  
                  ButtonData:>{
                   "Info-18fcc2c1-9c3d-4bd5-8dd7-63242aec80f0", {
-                   "KeplerLightCurve", "ArnoudBuzing`ExternalFunctions`"}, 
+                   "KeplerLightCurves", "ArnoudBuzing`ExternalFunctions`"}, 
                    False},
                  ButtonNote->"ArnoudBuzing`ExternalFunctions`",
                  Evaluator->Automatic], 
@@ -456,7 +456,7 @@ Cell[BoxData[
           ItemBox[
            PaneBox[
             
-            StyleBox["\<\"ArnoudBuzing`ExternalFunctions`KeplerLightCurve\"\>\
+            StyleBox["\<\"ArnoudBuzing`ExternalFunctions`KeplerLightCurves\"\>\
 ", "InformationUsageText",
              StripOnInput->False,
              LineSpacing->{1.5, 1.5, 3.}],
@@ -485,7 +485,7 @@ Cell[BoxData[
                     RowBox[{
                     
                     RowBox[{
-                    "KeplerLightCurve", "[", 
+                    "KeplerLightCurves", "[", 
                     "ArnoudBuzing`ExternalFunctions`Private`obj_String", 
                     "]"}], ":=", 
                     RowBox[{"Module", "[", 
@@ -540,7 +540,7 @@ lightkurve.search_targetpixelfile(obj).download().to_lightcurve().to_pandas()\
                     
                     Annotation[#, "FullName", 
                     "Tooltip"]& ], \
-"\<\"ArnoudBuzing`ExternalFunctions`KeplerLightCurve\"\>"}
+"\<\"ArnoudBuzing`ExternalFunctions`KeplerLightCurves\"\>"}
                  },
                  AutoDelete->False,
                  GridBoxAlignment->{"Columns" -> {Right, Left}},
@@ -638,7 +638,7 @@ lightkurve.search_targetpixelfile(obj).download().to_lightcurve().to_pandas()\
           ItemBox[
            PaneBox[
             
-            StyleBox["\<\"ArnoudBuzing`ExternalFunctions`KeplerLightCurve\"\>\
+            StyleBox["\<\"ArnoudBuzing`ExternalFunctions`KeplerLightCurves\"\>\
 ", "InformationUsageText",
              StripOnInput->False,
              LineSpacing->{1.5, 1.5, 3.}],
@@ -700,11 +700,11 @@ lightkurve.search_targetpixelfile(obj).download().to_lightcurve().to_pandas()\
    StripOnInput->False],
   InformationData[<|
    "ObjectType" -> "Symbol", "Usage" -> 
-    "ArnoudBuzing`ExternalFunctions`KeplerLightCurve", "Documentation" -> 
+    "ArnoudBuzing`ExternalFunctions`KeplerLightCurves", "Documentation" -> 
     None, "OwnValues" -> None, "UpValues" -> None, "DownValues" -> 
     Information`InformationValueForm[
-     DownValues, ArnoudBuzing`ExternalFunctions`KeplerLightCurve, {
-      ArnoudBuzing`ExternalFunctions`KeplerLightCurve[
+     DownValues, ArnoudBuzing`ExternalFunctions`KeplerLightCurves, {
+      ArnoudBuzing`ExternalFunctions`KeplerLightCurves[
          Pattern[ArnoudBuzing`ExternalFunctions`Private`obj, 
           Blank[String]]] :> 
        Module[{ArnoudBuzing`ExternalFunctions`Private`session}, 
@@ -718,7 +718,7 @@ lightkurve.search_targetpixelfile(obj).download().to_lightcurve().to_pandas()\
 "][ArnoudBuzing`ExternalFunctions`Private`obj]]}], "SubValues" -> None, 
     "DefaultValues" -> None, "NValues" -> None, "FormatValues" -> None, 
     "Options" -> None, "Attributes" -> {}, "FullName" -> 
-    "ArnoudBuzing`ExternalFunctions`KeplerLightCurve"|>, False]]], "Print",
+    "ArnoudBuzing`ExternalFunctions`KeplerLightCurves"|>, False]]], "Print",
  CellTags->
   "Info-18fcc2c1-9c3d-4bd5-8dd7-63242aec80f0",ExpressionUUID->"1ed41040-168d-\
 4b99-92c5-700cbb3ca779"]
@@ -727,7 +727,7 @@ lightkurve.search_targetpixelfile(obj).download().to_lightcurve().to_pandas()\
 Cell[BoxData[
  RowBox[{
   RowBox[{"curves", "=", 
-   RowBox[{"KeplerLightCurve", "[", "\"\<KIC 6922244\>\"", "]"}]}], 
+   RowBox[{"KeplerLightCurves", "[", "\"\<KIC 6922244\>\"", "]"}]}], 
   ";"}]], "Input",
  CellChangeTimes->{{3.9132994264056177`*^9, 3.913299431833044*^9}, {
    3.9132996382126207`*^9, 3.913299639095252*^9}, {3.913300104100643*^9, 

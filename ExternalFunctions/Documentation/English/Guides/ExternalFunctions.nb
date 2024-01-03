@@ -220,9 +220,9 @@ Cell["Light Curves", "GuideFunctionsSubsection",
 
 Cell[TextData[{
  Cell[BoxData[
-  ButtonBox["KeplerLightCurve",
+  ButtonBox["KeplerLightCurves",
    BaseStyle->"Link",
-   ButtonData->"paclet:ArnoudBuzing/ExternalFunctions/ref/KeplerLightCurve"]],
+   ButtonData->"paclet:ArnoudBuzing/ExternalFunctions/ref/KeplerLightCurves"]],
    "InlineGuideFunction",
   TaggingRules->{"PageType" -> "Function"},
   CellTags->"82dfb512-6b58-4d1a-9c43-ec77cd436a8c",ExpressionUUID->

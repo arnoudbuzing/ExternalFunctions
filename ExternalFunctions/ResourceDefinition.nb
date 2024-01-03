@@ -508,16 +508,16 @@ Cell[BoxData[
 Cell[BoxData[
  InterpretationBox[
   TagBox[
-   TemplateBox[{"\"KeplerLightCurve.nb\"", 
+   TemplateBox[{"\"KeplerLightCurves.nb\"", 
      FileNameJoin[{
        NotebookDirectory[], "Documentation", "English", "ReferencePages", 
-       "Symbols", "KeplerLightCurve.nb"}]},
+       "Symbols", "KeplerLightCurves.nb"}]},
     "FileManagerFileOpenerTemplate"],
    Annotation[#, 
     DefinitionNotebookClient`TemplateCells`PackagePrivate`fileDepth[4]]& ],
   FileNameJoin[{
     NotebookDirectory[], "Documentation", "English", "ReferencePages", 
-    "Symbols", "KeplerLightCurve.nb"}],
+    "Symbols", "KeplerLightCurves.nb"}],
   BoxID -> "FileTreePath",
   BaseStyle->{"Text"}]], "FileManagerFile",
  CellMargins->{{92 + Inherited, Inherited}, {Inherited, Inherited}},

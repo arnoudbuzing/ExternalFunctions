@@ -26,7 +26,7 @@ PacletObject[
           "ArnoudBuzing`ExternalFunctions`AcentricFactor",
           "ArnoudBuzing`ExternalFunctions`StielPolarFactor",
           "ArnoudBuzing`ExternalFunctions`LeeKeslerOmega",
-          "ArnoudBuzing`ExternalFunctions`KeplerLightCurve"
+          "ArnoudBuzing`ExternalFunctions`KeplerLightCurves"
         
         }
       },

@@ -20,13 +20,13 @@ WindowFrame->Normal*)
 Notebook[{
 
 Cell[CellGroupData[{
-Cell["KeplerLightCurve", "ObjectName",
+Cell["KeplerLightCurves", "ObjectName",
  CellID->702148566,ExpressionUUID->"970c276f-3229-4beb-bf4d-59a0b29007f5"],
 
 Cell[TextData[{
  Cell["   ", "ModInfo",ExpressionUUID->"a5052166-ba95-4e38-96ab-0fba97e1655e"],
  Cell[BoxData[
-  RowBox[{"KeplerLightCurve", "[", 
+  RowBox[{"KeplerLightCurves", "[", 
    StyleBox["kip", "TI"], "]"}]], "InlineFormula",ExpressionUUID->
   "8b80d4ff-f0d0-4122-b344-f771f00c177b"],
  " \[LineSeparator]gives a list of known light curves for Kepler object ",
@@ -207,7 +207,7 @@ Cell["Get the light curves for Kepler object 6922244:", "ExampleText",
 Cell[BoxData[
  RowBox[{
   RowBox[{"curves", "=", 
-   RowBox[{"KeplerLightCurve", "[", "\"\<KIC 6922244\>\"", "]"}]}], 
+   RowBox[{"KeplerLightCurves", "[", "\"\<KIC 6922244\>\"", "]"}]}], 
   ";"}]], "Input",
  CellChangeTimes->{{3.913303678459865*^9, 3.9133037024895763`*^9}},
  CellLabel->"In[1]:=",
@@ -16016,7 +16016,7 @@ Cell["ArnoudBuzing`ExternalFunctions`", "Categorization",
  CellLabel->"Context",
  CellID->820269020,ExpressionUUID->"aea47a3c-9eb9-4085-8a3c-8d58cd4f3030"],
 
-Cell["ArnoudBuzing/ExternalFunctions/ref/KeplerLightCurve", "Categorization",
+Cell["ArnoudBuzing/ExternalFunctions/ref/KeplerLightCurves", "Categorization",
  CellLabel->"URI",
  CellID->1563889047,ExpressionUUID->"943ddd58-75eb-4544-8f5d-581fe9496c6a"]
 }, Closed]],
