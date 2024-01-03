@@ -3,7 +3,7 @@ ClearAll["ArnoudBuzing`ExternalFunctions`*"];
 BeginPackage["ArnoudBuzing`ExternalFunctions`"];
 
 LoadExternalFunction;
-
+PythonSessionGet;
 
 FastFourierTransform;
 InverseFastFourierTransform;
@@ -15,6 +15,7 @@ MatrixBandwidth;
 AcentricFactor;
 StielPolarFactor;
 LeeKeslerOmega;
+KeplerLightCurve;
 
 
 Begin["`Private`"];
@@ -50,6 +51,7 @@ LoadExternalFunction["Python", fun_String, extra_String : ""] := Module[{compone
 (* Load external functions *)
 Get[ FileNameJoin[{DirectoryName[$InputFileName], "Mathematics.wl"}]];
 Get[ FileNameJoin[{DirectoryName[$InputFileName], "Chemistry.wl"}]];
+Get[ FileNameJoin[{DirectoryName[$InputFileName], "Astronomy.wl"}]];
 
 End[];
 EndPackage[];
