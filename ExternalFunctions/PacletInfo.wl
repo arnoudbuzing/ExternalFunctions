@@ -5,7 +5,7 @@ PacletObject[
     "Creator" -> "Arnoud Buzing",
     "License" -> "MIT",
     "PublisherID" -> "ArnoudBuzing",
-    "Version" -> "1.0.4",
+    "Version" -> "1.0.5",
     "WolframVersion" -> "14+",
     "PrimaryContext" -> "ArnoudBuzing`ExternalFunctions`",
     "DocumentationURL" -> "https://resources.wolframcloud.com/PacletRepository/resources",
