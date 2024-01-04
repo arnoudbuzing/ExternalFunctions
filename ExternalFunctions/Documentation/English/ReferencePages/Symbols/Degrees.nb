@@ -10,10 +10,10 @@
 NotebookFileLineBreakTest
 NotebookFileLineBreakTest
 NotebookDataPosition[       158,          7]
-NotebookDataLength[     19773,        549]
+NotebookDataLength[     19772,        549]
 NotebookOptionsPosition[     13523,        414]
-NotebookOutlinePosition[     14294,        439]
-CellTagsIndexPosition[     14215,        434]
+NotebookOutlinePosition[     14293,        439]
+CellTagsIndexPosition[     14214,        434]
 WindowFrame->Normal*)
 
 (* Beginning of Notebook Content *)
@@ -412,8 +412,8 @@ Cell[BoxData[""], "Template",
 }, Closed]]
 }, Open  ]]
 },
-WindowSize->{700, 770},
-WindowMargins->{{350, Automatic}, {31, Automatic}},
+WindowSize->{808, 747},
+WindowMargins->{{12, Automatic}, {Automatic, 24}},
 TaggingRules-><|"Paclet" -> "ArnoudBuzing/ExternalFunctions"|>,
 FrontEndVersion->"14.0 for Mac OS X ARM (64-bit) (December 12, 2023)",
 StyleDefinitions->FrontEnd`FileName[{"Wolfram"}, "FunctionPageStylesExt.nb", 
@@ -433,7 +433,7 @@ CellTagsIndex->{
 *)
 (*CellTagsIndex
 CellTagsIndex->{
- {"ExtendedExamples", 14022, 427}
+ {"ExtendedExamples", 14021, 427}
  }
 *)
 (*NotebookFileOutline

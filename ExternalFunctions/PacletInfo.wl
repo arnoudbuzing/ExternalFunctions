@@ -30,7 +30,8 @@ PacletObject[
           "ArnoudBuzing`ExternalFunctions`Degrees",
           "ArnoudBuzing`ExternalFunctions`Radians",
           "ArnoudBuzing`ExternalFunctions`UnicodeName",
-          "ArnoudBuzing`ExternalFunctions`UnicodeLookup"
+          "ArnoudBuzing`ExternalFunctions`UnicodeLookup",
+          "ArnoudBuzing`ExternalFunctions`TextWrap"
         
         }
       },

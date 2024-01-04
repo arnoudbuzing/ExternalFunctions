@@ -10,26 +10,22 @@
 NotebookFileLineBreakTest
 NotebookFileLineBreakTest
 NotebookDataPosition[       158,          7]
-NotebookDataLength[    643908,      11922]
-NotebookOptionsPosition[    635343,      11771]
-NotebookOutlinePosition[    636054,      11794]
-CellTagsIndexPosition[    635947,      11789]
+NotebookDataLength[    634148,      11659]
+NotebookOptionsPosition[    625564,      11508]
+NotebookOutlinePosition[    626004,      11525]
+CellTagsIndexPosition[    625961,      11522]
 WindowFrame->Normal*)
 
 (* Beginning of Notebook Content *)
 Notebook[{
-Cell[BoxData["Quit"], "Input",
- CellChangeTimes->{{3.913213601138114*^9, 3.913213602427493*^9}},
- CellLabel->"In[22]:=",ExpressionUUID->"dccf4a11-8c1a-4770-8291-e3e325ffeb88"],
 
 Cell[CellGroupData[{
-
 Cell[BoxData[
  RowBox[{"PacletDirectoryLoad", "[", 
   "\"\</Users/arnoudb/GitHub/ExternalFunctions/ExternalFunctions\>\"", 
   "]"}]], "Input",
  CellChangeTimes->{{3.9132135375406427`*^9, 3.913213548071727*^9}},
- CellLabel->"In[1]:=",ExpressionUUID->"868f512b-dae5-4969-96f2-86d02ef1eda3"],
+ CellLabel->"In[5]:=",ExpressionUUID->"868f512b-dae5-4969-96f2-86d02ef1eda3"],
 
 Cell[BoxData[
  RowBox[{"{", \
@@ -39,23 +35,114 @@ Cell[BoxData[
   3.913213548733717*^9, 3.913213607913868*^9, 3.913217014856995*^9, 
    3.913287260934634*^9, 3.9132874001448*^9, 3.913287919738575*^9, 
    3.9132979113639593`*^9, 3.913302975373166*^9, {3.913304806807289*^9, 
-   3.913304816764554*^9}},
- CellLabel->"Out[1]=",ExpressionUUID->"72b506ed-2045-40dc-81c4-ec99f2cb8e0f"]
+   3.913304816764554*^9}, 3.913373791987748*^9},
+ CellLabel->"Out[5]=",ExpressionUUID->"7397a932-3507-4e10-8d94-9ad89d229cac"]
 }, Open  ]],
 
 Cell[BoxData[
  RowBox[{"<<", "ArnoudBuzing`ExternalFunctions`"}]], "Input",
  CellChangeTimes->{{3.913213550423324*^9, 3.913213558459566*^9}, {
   3.913213644049882*^9, 3.913213645525025*^9}},
- CellLabel->"In[2]:=",ExpressionUUID->"9148082e-b836-4a18-aa5e-0a994c610154"],
+ CellLabel->"In[54]:=",ExpressionUUID->"9148082e-b836-4a18-aa5e-0a994c610154"],
+
+Cell[CellGroupData[{
+
+Cell[BoxData[
+ RowBox[{"TextWrap", "[", 
+  RowBox[{"StringRiffle", "[", 
+   RowBox[{"RandomWord", "[", "100", "]"}], "]"}], "]"}]], "Input",
+ CellChangeTimes->{{3.913377282241353*^9, 3.9133773164758587`*^9}},
+ CellLabel->"In[52]:=",ExpressionUUID->"f6842ecc-c148-4a86-affa-503b6c64bb76"],
+
+Cell[BoxData["\<\"roving description complete uncoupled govern efficient \
+flagrantly\\ndysfunction scrooge indelicate gratifying movement catfish \
+trilled\\neremite starboard expostulation goo stadium cocksure \
+underachiever\\nkiln hangman jugular extraneous listen disputed was anatomize \
+omen\\nmany sleepy articular disorderly unsupported obsessed \
+pratfall\\nsilenced encrusted peanuts chooser particle reprehensibility \
+rarely\\nliturgy paunch egoistic supernova yang acceptation \
+ill-equipped\\nhalftone legislating dutiable fricative dickey plover \
+otherworldly\\nfunfair chloroform gloatingly household sinister \
+discontinuation\\ngrater sensuality maudlin plight stomp bumptious laddie \
+unmerited\\ncooperation teleconferencing modernistic band enforcer \
+inelegantly\\nbunchy kerosene stenographic overactive copperhead reposition \
+mutagen\\nfifties coordination bee wagoner relevancy popularize \
+enrage\\npercussive naming legacy surpassing novella takeaway \
+speechlessly\\npenitential\"\>"], "Output",
+ CellChangeTimes->{3.913377371776787*^9},
+ CellLabel->"Out[52]=",ExpressionUUID->"7aac7740-eb88-4ec7-860c-bd63ed36bfa5"]
+}, Open  ]],
+
+Cell[CellGroupData[{
+
+Cell[BoxData[
+ RowBox[{"TextWrap", "[", 
+  RowBox[{
+   RowBox[{"StringRiffle", "[", 
+    RowBox[{"RandomWord", "[", "100", "]"}], "]"}], ",", "40"}], 
+  "]"}]], "Input",
+ CellChangeTimes->{{3.913377282241353*^9, 3.9133773164758587`*^9}, {
+  3.913377376009437*^9, 3.9133773788485003`*^9}},
+ CellLabel->"In[55]:=",ExpressionUUID->"637e3b89-5f7c-4cbd-866d-fc3ee52b3801"],
+
+Cell[BoxData["\<\"desensitize vermiform transitionally\\ntautly monasticism \
+vapid scrunch labored\\nclansman servicing worry retaliatory\\nrationalism \
+telling loin locksmith\\nskyscraper aggressor overflow smelly\\ndownstage \
+paragraph sunburn forthright\\nresidue mesmerizer lighted hesitate\\nfairly \
+tenderized displeasure whooper\\neducationist alkyd unpopularity \
+claret\\ncession staining faultless plug verbena\\nacoustics tolerance \
+imaging damsel\\nquarters immaturely utilizable\\ncosmopolitan target howl \
+halftime\\ngibberish nursemaid wanderlust hopefully\\nidyllic dissimulate \
+rupture integument\\nseamstress tailgate intestinal\\nanticlimactic \
+discursive sharpen\\nflighted ancient predator wrongdoing\\nlike immiscible \
+oxtail bask bimetallic\\nreasonably popinjay commissionaire fired\\nample \
+eyeshadow doddering viewer unusual\\nregistration tress desuetude \
+cryogenics\\nsteersman inflexibility parceling\\ninvolvement thermistor \
+circumnavigation\\nambitiousness atrial anthropological\\ndribbling \
+conscientiousness dissolved\"\>"], "Output",
+ CellChangeTimes->{{3.913377379221244*^9, 3.913377399863676*^9}},
+ CellLabel->"Out[55]=",ExpressionUUID->"1b6b86a8-b569-4110-84f3-352ec5ef0e8f"]
+}, Open  ]],
+
+Cell[BoxData[
+ RowBox[{" ", 
+  RowBox[{"{", 
+   RowBox[{
+   "\"\<ossification petulance reconstitute spotlessly reflexion \
+neurologist\>\"", ",", 
+    "\"\<earphone profits flatter stealthily mythical extragalactic seagull\>\
+\"", ",", 
+    "\"\<bursa dextrose counterpoised zinfandel reprehension safe aimlessness\
+\>\"", ",", 
+    "\"\<schoolyard cautiousness gladiator linnet waistcoat skeleton \
+microwave\>\"", ",", 
+    "\"\<generality physician clamp laughingstock pace instead finished\>\"", 
+    ",", "\"\<protuberant soapbox detergent drainboard welcome funniness \
+vociferous\>\"", ",", 
+    "\"\<cheesy dim mayhem anglophile trucker systematize hark esthetically\>\
+\"", ",", 
+    "\"\<connect contradiction dumpling git patten strenuously ashram\>\"", 
+    ",", "\"\<discriminator rasp boneheaded economical casket culmination \
+bilges\>\"", ",", 
+    "\"\<fitly thriftless micron touched subsequently spree singleton\>\"", 
+    ",", "\"\<conciliatory besieging rappel concurrence impregnably quilted \
+paying\>\"", ",", 
+    "\"\<voucher elf swerving lodestone quirky refuge region drudgery\>\"", 
+    ",", "\"\<fenestration milkman geodetic semisweet fingerboard \
+recombination\>\"", ",", 
+    "\"\<residuum tuck sorrowfulness eclair egoist dimensional \
+millennial\>\"", ",", "\"\<calamitous denationalization\>\""}], 
+   "}"}]}]], "Input",
+ CellChangeTimes->{{3.9133773319499826`*^9, 
+  3.913377331953651*^9}},ExpressionUUID->"aa562c65-173f-4a81-908b-\
+23e6c584eb20"],
 
 Cell[CellGroupData[{
 
 Cell[BoxData[
  RowBox[{"?", "ArnoudBuzing`ExternalFunctions`*"}]], "Input",
  CellChangeTimes->{{3.913213574185228*^9, 3.91321357795615*^9}},
- CellLabel->
-  "In[158]:=",ExpressionUUID->"82246a28-5b42-4c1d-9cc7-80ffe99561b4"],
+ CellLabel->"In[36]:=",ExpressionUUID->"82246a28-5b42-4c1d-9cc7-80ffe99561b4"],
 
 Cell[BoxData[
  StyleBox[
@@ -101,202 +188,42 @@ Cell[BoxData[
                  BaseStyle->"InformationGridLink",
                  
                  ButtonData:>{
-                  "Info-18fcc2c1-9c3d-4bd5-8dd7-63242aec80f0", {
+                  "Info-38882d31-68e0-4356-ba8b-f07356e57191", {
                    "AcentricFactor", "ArnoudBuzing`ExternalFunctions`"}, 
                    False},
                  ButtonNote->"ArnoudBuzing`ExternalFunctions`",
                  Evaluator->Automatic], 
                 ButtonBox[
-                 StyleBox["FastFourierTransform", "InformationGridButton"],
+                 StyleBox["math\[Breve]acosh", "InformationGridButton"],
                  Appearance->None,
                  BaseStyle->"InformationGridLink",
                  
                  ButtonData:>{
-                  "Info-18fcc2c1-9c3d-4bd5-8dd7-63242aec80f0", {
-                   "FastFourierTransform", "ArnoudBuzing`ExternalFunctions`"},
-                    False},
-                 ButtonNote->"ArnoudBuzing`ExternalFunctions`",
-                 Evaluator->Automatic], 
-                ButtonBox[
-                 
-                 StyleBox["lightcurve\[Breve]search\[Breve]targetpixelfile", 
-                  "InformationGridButton"],
-                 Appearance->None,
-                 BaseStyle->"InformationGridLink",
-                 
-                 ButtonData:>{
-                  "Info-18fcc2c1-9c3d-4bd5-8dd7-63242aec80f0", {
-                   "lightcurve\[Breve]search\[Breve]targetpixelfile", 
-                    "ArnoudBuzing`ExternalFunctions`"}, False},
-                 ButtonNote->"ArnoudBuzing`ExternalFunctions`",
-                 Evaluator->Automatic], 
-                ButtonBox[
-                 
-                 StyleBox["scipy\[Breve]fft\[Breve]dst", 
-                  "InformationGridButton"],
-                 Appearance->None,
-                 BaseStyle->"InformationGridLink",
-                 
-                 ButtonData:>{
-                  "Info-18fcc2c1-9c3d-4bd5-8dd7-63242aec80f0", {
-                   "scipy\[Breve]fft\[Breve]dst", 
-                    "ArnoudBuzing`ExternalFunctions`"}, False},
-                 ButtonNote->"ArnoudBuzing`ExternalFunctions`",
-                 Evaluator->Automatic]},
-               {
-                ButtonBox[
-                 
-                 StyleBox["chemicals\[Breve]acentric\[Breve]LK\[Breve]omega", 
-                  "InformationGridButton"],
-                 Appearance->None,
-                 BaseStyle->"InformationGridLink",
-                 
-                 ButtonData:>{
-                  "Info-18fcc2c1-9c3d-4bd5-8dd7-63242aec80f0", {
-                   "chemicals\[Breve]acentric\[Breve]LK\[Breve]omega", 
-                    "ArnoudBuzing`ExternalFunctions`"}, False},
-                 ButtonNote->"ArnoudBuzing`ExternalFunctions`",
-                 Evaluator->Automatic], 
-                ButtonBox[
-                 
-                 StyleBox["InverseDiscreteCosineTransform", 
-                  "InformationGridButton"],
-                 Appearance->None,
-                 BaseStyle->"InformationGridLink",
-                 
-                 ButtonData:>{
-                  "Info-18fcc2c1-9c3d-4bd5-8dd7-63242aec80f0", {
-                   "InverseDiscreteCosineTransform", 
-                    "ArnoudBuzing`ExternalFunctions`"}, False},
-                 ButtonNote->"ArnoudBuzing`ExternalFunctions`",
-                 Evaluator->Automatic], 
-                ButtonBox[
-                 
-                 StyleBox["lightkurve\[Breve]search\[Breve]targetpixelfile", 
-                  "InformationGridButton"],
-                 Appearance->None,
-                 BaseStyle->"InformationGridLink",
-                 
-                 ButtonData:>{
-                  "Info-18fcc2c1-9c3d-4bd5-8dd7-63242aec80f0", {
-                   "lightkurve\[Breve]search\[Breve]targetpixelfile", 
-                    "ArnoudBuzing`ExternalFunctions`"}, False},
-                 ButtonNote->"ArnoudBuzing`ExternalFunctions`",
-                 Evaluator->Automatic], 
-                ButtonBox[
-                 
-                 StyleBox["scipy\[Breve]fft\[Breve]fft", 
-                  "InformationGridButton"],
-                 Appearance->None,
-                 BaseStyle->"InformationGridLink",
-                 
-                 ButtonData:>{
-                  "Info-18fcc2c1-9c3d-4bd5-8dd7-63242aec80f0", {
-                   "scipy\[Breve]fft\[Breve]fft", 
-                    "ArnoudBuzing`ExternalFunctions`"}, False},
-                 ButtonNote->"ArnoudBuzing`ExternalFunctions`",
-                 Evaluator->Automatic]},
-               {
-                ButtonBox[
-                 
-                 StyleBox["chemicals\[Breve]acentric\[Breve]omega", 
-                  "InformationGridButton"],
-                 Appearance->None,
-                 BaseStyle->"InformationGridLink",
-                 
-                 ButtonData:>{
-                  "Info-18fcc2c1-9c3d-4bd5-8dd7-63242aec80f0", {
-                   "chemicals\[Breve]acentric\[Breve]omega", 
-                    "ArnoudBuzing`ExternalFunctions`"}, False},
-                 ButtonNote->"ArnoudBuzing`ExternalFunctions`",
-                 Evaluator->Automatic], 
-                ButtonBox[
-                 
-                 StyleBox["InverseDiscreteSineTransform", 
-                  "InformationGridButton"],
-                 Appearance->None,
-                 BaseStyle->"InformationGridLink",
-                 
-                 ButtonData:>{
-                  "Info-18fcc2c1-9c3d-4bd5-8dd7-63242aec80f0", {
-                   "InverseDiscreteSineTransform", 
-                    "ArnoudBuzing`ExternalFunctions`"}, False},
-                 ButtonNote->"ArnoudBuzing`ExternalFunctions`",
-                 Evaluator->Automatic], 
-                ButtonBox[
-                 StyleBox["LoadExternalFunction", "InformationGridButton"],
-                 Appearance->None,
-                 BaseStyle->"InformationGridLink",
-                 
-                 ButtonData:>{
-                  "Info-18fcc2c1-9c3d-4bd5-8dd7-63242aec80f0", {
-                   "LoadExternalFunction", "ArnoudBuzing`ExternalFunctions`"},
-                    False},
-                 ButtonNote->"ArnoudBuzing`ExternalFunctions`",
-                 Evaluator->Automatic], 
-                ButtonBox[
-                 
-                 StyleBox["scipy\[Breve]fft\[Breve]idct", 
-                  "InformationGridButton"],
-                 Appearance->None,
-                 BaseStyle->"InformationGridLink",
-                 
-                 ButtonData:>{
-                  "Info-18fcc2c1-9c3d-4bd5-8dd7-63242aec80f0", {
-                   "scipy\[Breve]fft\[Breve]idct", 
-                    "ArnoudBuzing`ExternalFunctions`"}, False},
-                 ButtonNote->"ArnoudBuzing`ExternalFunctions`",
-                 Evaluator->Automatic]},
-               {
-                ButtonBox[
-                 
-                 StyleBox[
-                  "chemicals\[Breve]acentric\[Breve]Stiel\[Breve]polar\[Breve]\
-factor", "InformationGridButton"],
-                 Appearance->None,
-                 BaseStyle->"InformationGridLink",
-                 
-                 ButtonData:>{
-                  "Info-18fcc2c1-9c3d-4bd5-8dd7-63242aec80f0", {
-                   "chemicals\[Breve]acentric\[Breve]Stiel\[Breve]polar\
-\[Breve]factor", "ArnoudBuzing`ExternalFunctions`"}, False},
-                 ButtonNote->"ArnoudBuzing`ExternalFunctions`",
-                 Evaluator->Automatic], 
-                ButtonBox[
-                 
-                 StyleBox["InverseFastFourierTransform", 
-                  "InformationGridButton"],
-                 Appearance->None,
-                 BaseStyle->"InformationGridLink",
-                 
-                 ButtonData:>{
-                  "Info-18fcc2c1-9c3d-4bd5-8dd7-63242aec80f0", {
-                   "InverseFastFourierTransform", 
-                    "ArnoudBuzing`ExternalFunctions`"}, False},
-                 ButtonNote->"ArnoudBuzing`ExternalFunctions`",
-                 Evaluator->Automatic], 
-                ButtonBox[
-                 StyleBox["MatrixBandwidth", "InformationGridButton"],
-                 Appearance->None,
-                 BaseStyle->"InformationGridLink",
-                 
-                 ButtonData:>{
-                  "Info-18fcc2c1-9c3d-4bd5-8dd7-63242aec80f0", {
-                   "MatrixBandwidth", "ArnoudBuzing`ExternalFunctions`"}, 
+                  "Info-38882d31-68e0-4356-ba8b-f07356e57191", {
+                   "math\[Breve]acosh", "ArnoudBuzing`ExternalFunctions`"}, 
                    False},
                  ButtonNote->"ArnoudBuzing`ExternalFunctions`",
-                 Evaluator->Automatic], 
+                 Evaluator->Automatic]},
+               {
                 ButtonBox[
-                 
-                 StyleBox["scipy\[Breve]fft\[Breve]idst", 
-                  "InformationGridButton"],
+                 StyleBox["Degrees", "InformationGridButton"],
                  Appearance->None,
                  BaseStyle->"InformationGridLink",
                  
                  ButtonData:>{
-                  "Info-18fcc2c1-9c3d-4bd5-8dd7-63242aec80f0", {
-                   "scipy\[Breve]fft\[Breve]idst", 
-                    "ArnoudBuzing`ExternalFunctions`"}, False},
+                  "Info-38882d31-68e0-4356-ba8b-f07356e57191", {
+                   "Degrees", "ArnoudBuzing`ExternalFunctions`"}, False},
+                 ButtonNote->"ArnoudBuzing`ExternalFunctions`",
+                 Evaluator->Automatic], 
+                ButtonBox[
+                 StyleBox["math\[Breve]degrees", "InformationGridButton"],
+                 Appearance->None,
+                 BaseStyle->"InformationGridLink",
+                 
+                 ButtonData:>{
+                  "Info-38882d31-68e0-4356-ba8b-f07356e57191", {
+                   "math\[Breve]degrees", "ArnoudBuzing`ExternalFunctions`"}, 
+                   False},
                  ButtonNote->"ArnoudBuzing`ExternalFunctions`",
                  Evaluator->Automatic]},
                {
@@ -307,44 +234,20 @@ factor", "InformationGridButton"],
                  BaseStyle->"InformationGridLink",
                  
                  ButtonData:>{
-                  "Info-18fcc2c1-9c3d-4bd5-8dd7-63242aec80f0", {
+                  "Info-38882d31-68e0-4356-ba8b-f07356e57191", {
                    "DiscreteCosineTransform", 
                     "ArnoudBuzing`ExternalFunctions`"}, False},
                  ButtonNote->"ArnoudBuzing`ExternalFunctions`",
                  Evaluator->Automatic], 
                 ButtonBox[
-                 StyleBox["KeplerLightCurves", "InformationGridButton"],
+                 StyleBox["math\[Breve]pi", "InformationGridButton"],
                  Appearance->None,
                  BaseStyle->"InformationGridLink",
                  
                  ButtonData:>{
-                  "Info-18fcc2c1-9c3d-4bd5-8dd7-63242aec80f0", {
-                   "KeplerLightCurves", "ArnoudBuzing`ExternalFunctions`"}, 
+                  "Info-38882d31-68e0-4356-ba8b-f07356e57191", {
+                   "math\[Breve]pi", "ArnoudBuzing`ExternalFunctions`"}, 
                    False},
-                 ButtonNote->"ArnoudBuzing`ExternalFunctions`",
-                 Evaluator->Automatic], 
-                ButtonBox[
-                 StyleBox["PythonSessionGet", "InformationGridButton"],
-                 Appearance->None,
-                 BaseStyle->"InformationGridLink",
-                 
-                 ButtonData:>{
-                  "Info-18fcc2c1-9c3d-4bd5-8dd7-63242aec80f0", {
-                   "PythonSessionGet", "ArnoudBuzing`ExternalFunctions`"}, 
-                   False},
-                 ButtonNote->"ArnoudBuzing`ExternalFunctions`",
-                 Evaluator->Automatic], 
-                ButtonBox[
-                 
-                 StyleBox["scipy\[Breve]fft\[Breve]ifft", 
-                  "InformationGridButton"],
-                 Appearance->None,
-                 BaseStyle->"InformationGridLink",
-                 
-                 ButtonData:>{
-                  "Info-18fcc2c1-9c3d-4bd5-8dd7-63242aec80f0", {
-                   "scipy\[Breve]fft\[Breve]ifft", 
-                    "ArnoudBuzing`ExternalFunctions`"}, False},
                  ButtonNote->"ArnoudBuzing`ExternalFunctions`",
                  Evaluator->Automatic]},
                {
@@ -354,32 +257,105 @@ factor", "InformationGridButton"],
                  BaseStyle->"InformationGridLink",
                  
                  ButtonData:>{
-                  "Info-18fcc2c1-9c3d-4bd5-8dd7-63242aec80f0", {
+                  "Info-38882d31-68e0-4356-ba8b-f07356e57191", {
                    "DiscreteSineTransform", 
                     "ArnoudBuzing`ExternalFunctions`"}, False},
                  ButtonNote->"ArnoudBuzing`ExternalFunctions`",
                  Evaluator->Automatic], 
                 ButtonBox[
-                 StyleBox["LeeKeslerOmega", "InformationGridButton"],
+                 StyleBox["math\[Breve]radians", "InformationGridButton"],
                  Appearance->None,
                  BaseStyle->"InformationGridLink",
                  
                  ButtonData:>{
-                  "Info-18fcc2c1-9c3d-4bd5-8dd7-63242aec80f0", {
-                   "LeeKeslerOmega", "ArnoudBuzing`ExternalFunctions`"}, 
+                  "Info-38882d31-68e0-4356-ba8b-f07356e57191", {
+                   "math\[Breve]radians", "ArnoudBuzing`ExternalFunctions`"}, 
                    False},
+                 ButtonNote->"ArnoudBuzing`ExternalFunctions`",
+                 Evaluator->Automatic]},
+               {
+                ButtonBox[
+                 StyleBox["FastFourierTransform", "InformationGridButton"],
+                 Appearance->None,
+                 BaseStyle->"InformationGridLink",
+                 
+                 ButtonData:>{
+                  "Info-38882d31-68e0-4356-ba8b-f07356e57191", {
+                   "FastFourierTransform", "ArnoudBuzing`ExternalFunctions`"},
+                    False},
                  ButtonNote->"ArnoudBuzing`ExternalFunctions`",
                  Evaluator->Automatic], 
                 ButtonBox[
+                 StyleBox["MatrixBandwidth", "InformationGridButton"],
+                 Appearance->None,
+                 BaseStyle->"InformationGridLink",
                  
-                 StyleBox["scipy\[Breve]fft\[Breve]dct", 
+                 ButtonData:>{
+                  "Info-38882d31-68e0-4356-ba8b-f07356e57191", {
+                   "MatrixBandwidth", "ArnoudBuzing`ExternalFunctions`"}, 
+                   False},
+                 ButtonNote->"ArnoudBuzing`ExternalFunctions`",
+                 Evaluator->Automatic]},
+               {
+                ButtonBox[
+                 
+                 StyleBox["InverseDiscreteCosineTransform", 
                   "InformationGridButton"],
                  Appearance->None,
                  BaseStyle->"InformationGridLink",
                  
                  ButtonData:>{
-                  "Info-18fcc2c1-9c3d-4bd5-8dd7-63242aec80f0", {
-                   "scipy\[Breve]fft\[Breve]dct", 
+                  "Info-38882d31-68e0-4356-ba8b-f07356e57191", {
+                   "InverseDiscreteCosineTransform", 
+                    "ArnoudBuzing`ExternalFunctions`"}, False},
+                 ButtonNote->"ArnoudBuzing`ExternalFunctions`",
+                 Evaluator->Automatic], 
+                ButtonBox[
+                 StyleBox["PythonSessionGet", "InformationGridButton"],
+                 Appearance->None,
+                 BaseStyle->"InformationGridLink",
+                 
+                 ButtonData:>{
+                  "Info-38882d31-68e0-4356-ba8b-f07356e57191", {
+                   "PythonSessionGet", "ArnoudBuzing`ExternalFunctions`"}, 
+                   False},
+                 ButtonNote->"ArnoudBuzing`ExternalFunctions`",
+                 Evaluator->Automatic]},
+               {
+                ButtonBox[
+                 
+                 StyleBox["InverseDiscreteSineTransform", 
+                  "InformationGridButton"],
+                 Appearance->None,
+                 BaseStyle->"InformationGridLink",
+                 
+                 ButtonData:>{
+                  "Info-38882d31-68e0-4356-ba8b-f07356e57191", {
+                   "InverseDiscreteSineTransform", 
+                    "ArnoudBuzing`ExternalFunctions`"}, False},
+                 ButtonNote->"ArnoudBuzing`ExternalFunctions`",
+                 Evaluator->Automatic], 
+                ButtonBox[
+                 StyleBox["Radians", "InformationGridButton"],
+                 Appearance->None,
+                 BaseStyle->"InformationGridLink",
+                 
+                 ButtonData:>{
+                  "Info-38882d31-68e0-4356-ba8b-f07356e57191", {
+                   "Radians", "ArnoudBuzing`ExternalFunctions`"}, False},
+                 ButtonNote->"ArnoudBuzing`ExternalFunctions`",
+                 Evaluator->Automatic]},
+               {
+                ButtonBox[
+                 
+                 StyleBox["InverseFastFourierTransform", 
+                  "InformationGridButton"],
+                 Appearance->None,
+                 BaseStyle->"InformationGridLink",
+                 
+                 ButtonData:>{
+                  "Info-38882d31-68e0-4356-ba8b-f07356e57191", {
+                   "InverseFastFourierTransform", 
                     "ArnoudBuzing`ExternalFunctions`"}, False},
                  ButtonNote->"ArnoudBuzing`ExternalFunctions`",
                  Evaluator->Automatic], 
@@ -389,18 +365,76 @@ factor", "InformationGridButton"],
                  BaseStyle->"InformationGridLink",
                  
                  ButtonData:>{
-                  "Info-18fcc2c1-9c3d-4bd5-8dd7-63242aec80f0", {
+                  "Info-38882d31-68e0-4356-ba8b-f07356e57191", {
                    "StielPolarFactor", "ArnoudBuzing`ExternalFunctions`"}, 
                    False},
                  ButtonNote->"ArnoudBuzing`ExternalFunctions`",
-                 Evaluator->Automatic]}
+                 Evaluator->Automatic]},
+               {
+                ButtonBox[
+                 StyleBox["KeplerLightCurves", "InformationGridButton"],
+                 Appearance->None,
+                 BaseStyle->"InformationGridLink",
+                 
+                 ButtonData:>{
+                  "Info-38882d31-68e0-4356-ba8b-f07356e57191", {
+                   "KeplerLightCurves", "ArnoudBuzing`ExternalFunctions`"}, 
+                   False},
+                 ButtonNote->"ArnoudBuzing`ExternalFunctions`",
+                 Evaluator->Automatic], 
+                ButtonBox[
+                 StyleBox["unicodedata\[Breve]name", "InformationGridButton"],
+                 
+                 Appearance->None,
+                 BaseStyle->"InformationGridLink",
+                 
+                 ButtonData:>{
+                  "Info-38882d31-68e0-4356-ba8b-f07356e57191", {
+                   "unicodedata\[Breve]name", 
+                    "ArnoudBuzing`ExternalFunctions`"}, False},
+                 ButtonNote->"ArnoudBuzing`ExternalFunctions`",
+                 Evaluator->Automatic]},
+               {
+                ButtonBox[
+                 StyleBox["LeeKeslerOmega", "InformationGridButton"],
+                 Appearance->None,
+                 BaseStyle->"InformationGridLink",
+                 
+                 ButtonData:>{
+                  "Info-38882d31-68e0-4356-ba8b-f07356e57191", {
+                   "LeeKeslerOmega", "ArnoudBuzing`ExternalFunctions`"}, 
+                   False},
+                 ButtonNote->"ArnoudBuzing`ExternalFunctions`",
+                 Evaluator->Automatic], 
+                ButtonBox[
+                 StyleBox["UnicodeName", "InformationGridButton"],
+                 Appearance->None,
+                 BaseStyle->"InformationGridLink",
+                 
+                 ButtonData:>{
+                  "Info-38882d31-68e0-4356-ba8b-f07356e57191", {
+                   "UnicodeName", "ArnoudBuzing`ExternalFunctions`"}, False},
+                 ButtonNote->"ArnoudBuzing`ExternalFunctions`",
+                 Evaluator->Automatic]},
+               {
+                ButtonBox[
+                 StyleBox["LoadExternalFunction", "InformationGridButton"],
+                 Appearance->None,
+                 BaseStyle->"InformationGridLink",
+                 
+                 ButtonData:>{
+                  "Info-38882d31-68e0-4356-ba8b-f07356e57191", {
+                   "LoadExternalFunction", "ArnoudBuzing`ExternalFunctions`"},
+                    False},
+                 ButtonNote->"ArnoudBuzing`ExternalFunctions`",
+                 Evaluator->Automatic], ""}
               },
               DefaultBaseStyle->"Text",
               
               GridBoxAlignment->{
                "Columns" -> {{Left}}, "Rows" -> {{Baseline}}},
               GridBoxItemSize->{"Columns" -> {{
-                   Scaled[0.2375]}}}],
+                   Scaled[0.475]}}}],
              ImageMargins->{{10, 0}, {0, 2}}]}
           },
           GridBoxAlignment->{"Columns" -> {{Left}}, "Rows" -> {{Baseline}}}],
@@ -423,307 +457,10 @@ factor", "InformationGridButton"],
    3.913216963517912*^9, 3.913216974161499*^9}, {3.9132170134853687`*^9, 
    3.913217017194372*^9}, 3.913218411338212*^9, 3.913218444351291*^9, 
    3.913287923914822*^9, 3.913288159012154*^9, 3.91328851826467*^9, 
-   3.9132886022448263`*^9, 3.9132979499724708`*^9, 3.913299416242337*^9},
- CellLabel->
-  "Out[158]=",ExpressionUUID->"eeeb9c29-4442-4924-b427-bc7e043cdc40"],
-
-Cell[BoxData[
- InterpretationBox[
-  StyleBox[
-   FrameBox[
-    DynamicModuleBox[{System`InformationDump`open$$ = True, 
-     System`InformationDump`mouseOver$$ = False}, 
-     PaneSelectorBox[{True->
-      TagBox[GridBox[{
-         {
-          ItemBox[
-           PaneBox[
-            StyleBox[
-             TagBox[
-              TooltipBox[
-               StyleBox["\<\" Symbol\"\>", "InformationRowLabel",
-                StripOnInput->False],
-               "\"Symbol\"",
-               TooltipStyle->"TextStyling"],
-              Annotation[#, "Symbol", "Tooltip"]& ], "InformationTitleText",
-             StripOnInput->False,
-             BaseStyle -> None],
-            FrameMargins->{{4, 0}, {-1, 1}}],
-           BaseStyle->"InformationTitleBackground",
-           StripOnInput->False], 
-          ItemBox["\<\"\"\>",
-           BaseStyle->"InformationTitleBackground",
-           StripOnInput->False]},
-         {
-          ItemBox[
-           PaneBox[
-            
-            StyleBox["\<\"ArnoudBuzing`ExternalFunctions`KeplerLightCurves\"\>\
-", "InformationUsageText",
-             StripOnInput->False,
-             LineSpacing->{1.5, 1.5, 3.}],
-            FrameMargins->{{10, 10}, {8, 10}}],
-           BaseStyle->"InformationUsageSubtitleBackground",
-           StripOnInput->False], 
-          ItemBox["\<\"\"\>",
-           BaseStyle->"InformationUsageSubtitleBackground",
-           StripOnInput->False]},
-         {
-          PaneBox[
-           TagBox[GridBox[{
-              {
-               StyleBox[
-                TagBox[
-                 TooltipBox[
-                  StyleBox["\<\" Definitions\"\>", "InformationRowLabel",
-                   StripOnInput->False],
-                  "\"Definitions\"",
-                  TooltipStyle->"TextStyling"],
-                 Annotation[#, "Definitions", "Tooltip"]& ], "DialogStyle",
-                StripOnInput->False]},
-              {
-               TemplateBox[{"\"\[ThinSpace]\"", 
-                 GridBox[{{
-                    RowBox[{
-                    
-                    RowBox[{
-                    "KeplerLightCurves", "[", 
-                    "ArnoudBuzing`ExternalFunctions`Private`obj_String", 
-                    "]"}], ":=", 
-                    RowBox[{"Module", "[", 
-                    RowBox[{
-                    
-                    RowBox[{
-                    "{", "ArnoudBuzing`ExternalFunctions`Private`session", 
-                    "}"}], ",", 
-                    RowBox[{
-                    
-                    RowBox[{"ArnoudBuzing`ExternalFunctions`Private`session", 
-                    "=", 
-                    RowBox[{"PythonSessionGet", "[", 
-                    RowBox[{"\"lightkurve\"", ",", 
-                    RowBox[{"{", "\"lightkurve\"", "}"}], ",", 
-                    "\"import lightkurve\""}], "]"}]}], ";", 
-                    RowBox[{
-                    RowBox[{"ExternalFunction", "[", 
-                    
-                    RowBox[{"ArnoudBuzing`ExternalFunctions`Private`session", 
-                    ",", "\"lambda obj: \
-lightkurve.search_targetpixelfile(obj).download().to_lightcurve().to_pandas()\
-\""}], "]"}], "[", "ArnoudBuzing`ExternalFunctions`Private`obj", "]"}]}]}], 
-                    "]"}]}]}, {" "}}, 
-                  GridBoxAlignment -> {"Columns" -> {{Left}}}, 
-                  DefaultBaseStyle -> "Column", 
-                  GridBoxItemSize -> {
-                   "Columns" -> {{Automatic}}, "Rows" -> {{Automatic}}}]},
-                "RowDefault"]}
-             },
-             DefaultBaseStyle->"Column",
-             GridBoxAlignment->{"Columns" -> {{Left}}},
-             
-             GridBoxItemSize->{
-              "Columns" -> {{Automatic}}, "Rows" -> {{Automatic}}}],
-            "Column"],
-           FrameMargins->{{6, 0}, {3, 6}}], "\<\"\"\>"},
-         {
-          PaneBox[GridBox[{
-             {
-              
-              DynamicModuleBox[{System`InformationDump`open$$ = {
-               False, False, False, False, False, False}}, 
-               StyleBox[GridBox[{
-                  {
-                   TagBox[
-                    TooltipBox[
-                    StyleBox["\<\" Full Name\"\>", "InformationRowLabel",
-                    StripOnInput->False],
-                    "\"FullName\"",
-                    TooltipStyle->"TextStyling"],
-                    
-                    Annotation[#, "FullName", 
-                    "Tooltip"]& ], \
-"\<\"ArnoudBuzing`ExternalFunctions`KeplerLightCurves\"\>"}
-                 },
-                 AutoDelete->False,
-                 GridBoxAlignment->{"Columns" -> {Right, Left}},
-                 GridBoxDividers->None,
-                 GridBoxItemSize->{"Columns" -> {Automatic, Automatic}},
-                 GridBoxSpacings->{"Columns" -> {
-                    Offset[0.27999999999999997`], {
-                    Offset[0.5599999999999999]}, 
-                    Offset[0.27999999999999997`]}, "Rows" -> {
-                    Offset[0.2], {
-                    Offset[0.8]}, 
-                    Offset[0.2]}}], "DialogStyle",
-                StripOnInput->False],
-               DynamicModuleValues:>{}]}
-            },
-            DefaultBaseStyle->"Column",
-            GridBoxAlignment->{"Columns" -> {{Left}}},
-            GridBoxDividers->{"Columns" -> {{False}}, "Rows" -> {{False}}},
-            
-            GridBoxItemSize->{
-             "Columns" -> {{Automatic}}, "Rows" -> {{Automatic}}},
-            GridBoxSpacings->{"Columns" -> {
-                Offset[0.27999999999999997`], {
-                 Offset[0.5599999999999999]}, 
-                Offset[0.27999999999999997`]}, "Rows" -> {
-                Offset[0.2], {
-                 Offset[3.6]}, 
-                Offset[0.2]}}],
-           FrameMargins->{{6, 6}, {6, 3}}], ""},
-         {
-          ItemBox[
-           TagBox[
-            ButtonBox[
-             PaneSelectorBox[{False->
-              
-              DynamicBox[FEPrivate`FrontEndResource[
-               "FEBitmaps", "UpPointerOpener"],
-               ImageSizeCache->{10., {2., 8.}}], True->
-              
-              DynamicBox[FEPrivate`FrontEndResource[
-               "FEBitmaps", "UpPointerOpenerHot"],
-               ImageSizeCache->{10., {2., 8.}}]}, Dynamic[
-              System`InformationDump`mouseOver$$]],
-             Alignment->Left,
-             Appearance->{"Default" -> None},
-             
-             ButtonFunction:>FEPrivate`Set[
-              System`InformationDump`open$$, False],
-             Evaluator->Automatic,
-             FrameMargins->{{9, 0}, {0, 0}},
-             ImageMargins->0,
-             ImageSize->Full,
-             Method->"Preemptive"],
-            
-            EventHandlerTag[{
-             "MouseEntered" :> 
-              FEPrivate`Set[System`InformationDump`mouseOver$$, True], 
-              "MouseExited" :> 
-              FEPrivate`Set[System`InformationDump`mouseOver$$, False], 
-              Method -> "Preemptive", PassEventsDown -> Automatic, 
-              PassEventsUp -> True}]],
-           BaseStyle->"InformationTitleBackground",
-           StripOnInput->False], "\[SpanFromLeft]"}
-        },
-        AutoDelete->False,
-        FrameStyle->Directive[
-          GrayLevel[0.8], 
-          Thickness[Tiny]],
-        GridBoxAlignment->{"Columns" -> {Left, Right}, "Rows" -> {{Center}}},
-        GridBoxDividers->{
-         "Columns" -> {{None}}, "Rows" -> {False, {True}, False}},
-        GridBoxItemSize->{
-         "Columns" -> {{Automatic}}, "Rows" -> {{Automatic}}}],
-       "Grid"], False->
-      TagBox[GridBox[{
-         {
-          ItemBox[
-           PaneBox[
-            StyleBox[
-             TagBox[
-              TooltipBox[
-               StyleBox["\<\" Symbol\"\>", "InformationRowLabel",
-                StripOnInput->False],
-               "\"Symbol\"",
-               TooltipStyle->"TextStyling"],
-              Annotation[#, "Symbol", "Tooltip"]& ], "InformationTitleText",
-             StripOnInput->False],
-            FrameMargins->{{4, 0}, {-1, 1}}],
-           BaseStyle->"InformationTitleBackground",
-           StripOnInput->False], 
-          ItemBox["\<\"\"\>",
-           BaseStyle->"InformationTitleBackground",
-           StripOnInput->False]},
-         {
-          ItemBox[
-           PaneBox[
-            
-            StyleBox["\<\"ArnoudBuzing`ExternalFunctions`KeplerLightCurves\"\>\
-", "InformationUsageText",
-             StripOnInput->False,
-             LineSpacing->{1.5, 1.5, 3.}],
-            FrameMargins->{{10, 10}, {8, 10}}],
-           BaseStyle->"InformationUsageSubtitleBackground",
-           StripOnInput->False], 
-          ItemBox["\<\"\"\>",
-           BaseStyle->"InformationUsageSubtitleBackground",
-           StripOnInput->False]},
-         {
-          ItemBox[
-           TagBox[
-            ButtonBox[
-             PaneSelectorBox[{False->
-              
-              DynamicBox[FEPrivate`FrontEndResource[
-               "FEBitmaps", "DownPointerOpener"]], True->
-              
-              DynamicBox[FEPrivate`FrontEndResource[
-               "FEBitmaps", "DownPointerOpenerHot"]]}, Dynamic[
-              System`InformationDump`mouseOver$$]],
-             Alignment->Left,
-             Appearance->{"Default" -> None},
-             
-             ButtonFunction:>FEPrivate`Set[
-              System`InformationDump`open$$, True],
-             Evaluator->Automatic,
-             FrameMargins->{{9, 0}, {0, 0}},
-             ImageMargins->0,
-             ImageSize->Full,
-             Method->"Preemptive"],
-            
-            EventHandlerTag[{
-             "MouseEntered" :> 
-              FEPrivate`Set[System`InformationDump`mouseOver$$, True], 
-              "MouseExited" :> 
-              FEPrivate`Set[System`InformationDump`mouseOver$$, False], 
-              Method -> "Preemptive", PassEventsDown -> Automatic, 
-              PassEventsUp -> True}]],
-           BaseStyle->"InformationTitleBackground",
-           StripOnInput->False], "\[SpanFromLeft]"}
-        },
-        AutoDelete->False,
-        FrameStyle->Directive[
-          GrayLevel[0.8], 
-          Thickness[Tiny]],
-        GridBoxAlignment->{"Columns" -> {Left, Right}, "Rows" -> {{Center}}},
-        GridBoxDividers->{
-         "Columns" -> {{None}}, "Rows" -> {False, {True}, False}},
-        GridBoxItemSize->{
-         "Columns" -> {{Automatic}}, "Rows" -> {{Automatic}}}],
-       "Grid"]}, Dynamic[System`InformationDump`open$$],
-      BaselinePosition->Baseline,
-      FrameMargins->0,
-      ImageSize->Automatic],
-     DynamicModuleValues:>{}],
-    BaseStyle->"InformationGridFrame",
-    StripOnInput->False], "InformationGridPlain",
-   StripOnInput->False],
-  InformationData[<|
-   "ObjectType" -> "Symbol", "Usage" -> 
-    "ArnoudBuzing`ExternalFunctions`KeplerLightCurves", "Documentation" -> 
-    None, "OwnValues" -> None, "UpValues" -> None, "DownValues" -> 
-    Information`InformationValueForm[
-     DownValues, ArnoudBuzing`ExternalFunctions`KeplerLightCurves, {
-      ArnoudBuzing`ExternalFunctions`KeplerLightCurves[
-         Pattern[ArnoudBuzing`ExternalFunctions`Private`obj, 
-          Blank[String]]] :> 
-       Module[{ArnoudBuzing`ExternalFunctions`Private`session}, 
-         ArnoudBuzing`ExternalFunctions`Private`session = 
-          ArnoudBuzing`ExternalFunctions`PythonSessionGet[
-           "lightkurve", {"lightkurve"}, "import lightkurve"]; 
-         ExternalFunction[
-          ArnoudBuzing`ExternalFunctions`Private`session, 
-           "lambda obj: \
-lightkurve.search_targetpixelfile(obj).download().to_lightcurve().to_pandas()\
-"][ArnoudBuzing`ExternalFunctions`Private`obj]]}], "SubValues" -> None, 
-    "DefaultValues" -> None, "NValues" -> None, "FormatValues" -> None, 
-    "Options" -> None, "Attributes" -> {}, "FullName" -> 
-    "ArnoudBuzing`ExternalFunctions`KeplerLightCurves"|>, False]]], "Print",
- CellTags->
-  "Info-18fcc2c1-9c3d-4bd5-8dd7-63242aec80f0",ExpressionUUID->"1ed41040-168d-\
-4b99-92c5-700cbb3ca779"]
+   3.9132886022448263`*^9, 3.913297949972471*^9, 3.913299416242337*^9, 
+   3.913374381901577*^9, {3.9133744176246557`*^9, 3.9133744440529737`*^9}, 
+   3.913375909076014*^9},
+ CellLabel->"Out[36]=",ExpressionUUID->"4d19af39-5ac7-4f04-9a44-46b569c1f3ed"]
 }, Open  ]],
 
 Cell[BoxData[
@@ -11769,8 +11506,8 @@ Cell[BoxData["SetAttributes"], "Input",
   3.913288114113564*^9}},ExpressionUUID->"56805a70-4011-46d4-84e1-\
 b9ae33e231ab"]
 },
-WindowSize->{1440, 847},
-WindowMargins->{{0, Automatic}, {Automatic, 0}},
+WindowSize->{808, 747},
+WindowMargins->{{95, Automatic}, {-92, Automatic}},
 TaggingRules-><|"TryRealOnly" -> False|>,
 FrontEndVersion->"14.0 for Mac OS X ARM (64-bit) (December 12, 2023)",
 StyleDefinitions->"Default.nb",
@@ -11780,153 +11517,151 @@ ExpressionUUID->"1ffc1dde-1bad-4433-9388-30b17b5cc3fd"
 
 (* Internal cache information *)
 (*CellTagsOutline
-CellTagsIndex->{
- "Info-18fcc2c1-9c3d-4bd5-8dd7-63242aec80f0"->{
-  Cell[18193, 429, 11945, 296, 278, "Print",ExpressionUUID->"1ed41040-168d-4b99-92c5-700cbb3ca779",
-   CellTags->"Info-18fcc2c1-9c3d-4bd5-8dd7-63242aec80f0"]}
- }
+CellTagsIndex->{}
 *)
 (*CellTagsIndex
-CellTagsIndex->{
- {"Info-18fcc2c1-9c3d-4bd5-8dd7-63242aec80f0", 635764, 11783}
- }
+CellTagsIndex->{}
 *)
 (*NotebookFileOutline
 Notebook[{
-Cell[558, 20, 175, 2, 30, "Input",ExpressionUUID->"dccf4a11-8c1a-4770-8291-e3e325ffeb88"],
 Cell[CellGroupData[{
-Cell[758, 26, 288, 5, 30, "Input",ExpressionUUID->"868f512b-dae5-4969-96f2-86d02ef1eda3"],
-Cell[1049, 33, 454, 9, 34, "Output",ExpressionUUID->"72b506ed-2045-40dc-81c4-ec99f2cb8e0f"]
+Cell[580, 22, 288, 5, 30, "Input",ExpressionUUID->"868f512b-dae5-4969-96f2-86d02ef1eda3"],
+Cell[871, 29, 476, 9, 34, "Output",ExpressionUUID->"7397a932-3507-4e10-8d94-9ad89d229cac"]
 }, Open  ]],
-Cell[1518, 45, 268, 4, 30, "Input",ExpressionUUID->"9148082e-b836-4a18-aa5e-0a994c610154"],
+Cell[1362, 41, 269, 4, 30, "Input",ExpressionUUID->"9148082e-b836-4a18-aa5e-0a994c610154"],
 Cell[CellGroupData[{
-Cell[1811, 53, 223, 4, 30, "Input",ExpressionUUID->"82246a28-5b42-4c1d-9cc7-80ffe99561b4"],
-Cell[2037, 59, 16153, 368, 202, "Output",ExpressionUUID->"eeeb9c29-4442-4924-b427-bc7e043cdc40"],
-Cell[18193, 429, 11945, 296, 278, "Print",ExpressionUUID->"1ed41040-168d-4b99-92c5-700cbb3ca779",
- CellTags->"Info-18fcc2c1-9c3d-4bd5-8dd7-63242aec80f0"]
-}, Open  ]],
-Cell[30153, 728, 530, 10, 30, "Input",ExpressionUUID->"17eabd13-4f69-40c9-8dc7-619a74e229d6"],
-Cell[CellGroupData[{
-Cell[30708, 742, 238, 4, 30, "Input",ExpressionUUID->"4e2a7cce-53e6-4f95-bb26-c3e54c50b9f3"],
-Cell[30949, 748, 220, 4, 34, "Output",ExpressionUUID->"1c971248-3565-4fac-8373-d9eb8a5a200f"]
-}, Open  ]],
-Cell[31184, 755, 176, 2, 30, "Input",ExpressionUUID->"8fe39163-8e27-4295-8436-d44083d21954"],
-Cell[31363, 759, 334, 7, 30, "Input",ExpressionUUID->"5365185d-3dd5-4445-9f7c-2775db13737b"],
-Cell[31700, 768, 262, 5, 30, "Input",ExpressionUUID->"77da8266-0bea-4ab3-b60d-7a2ccb14b0c2"],
-Cell[CellGroupData[{
-Cell[31987, 777, 369, 8, 30, "Input",ExpressionUUID->"b7077b66-b407-4cbe-a686-54acb086a966"],
-Cell[32359, 787, 44948, 865, 64, "Output",ExpressionUUID->"ef9c346a-3072-4819-9c09-f6d80c5495eb"]
+Cell[1656, 49, 287, 5, 30, "Input",ExpressionUUID->"f6842ecc-c148-4a86-affa-503b6c64bb76"],
+Cell[1946, 56, 1147, 16, 329, "Output",ExpressionUUID->"7aac7740-eb88-4ec7-860c-bd63ed36bfa5"]
 }, Open  ]],
 Cell[CellGroupData[{
-Cell[77344, 1657, 535, 12, 30, "Input",ExpressionUUID->"12021258-037c-4c75-81b9-cdd93ee38fb2"],
-Cell[77882, 1671, 51220, 959, 64, "Output",ExpressionUUID->"6323170b-334c-4d0c-8e0e-9811ab625b98"]
+Cell[3130, 77, 367, 8, 30, "Input",ExpressionUUID->"637e3b89-5f7c-4cbd-866d-fc3ee52b3801"],
+Cell[3500, 87, 1227, 16, 560, "Output",ExpressionUUID->"1b6b86a8-b569-4110-84f3-352ec5ef0e8f"]
 }, Open  ]],
-Cell[129117, 2633, 225, 4, 30, "Input",ExpressionUUID->"18f8e64e-2a25-442b-bdc9-4b1f19fb5aee"],
+Cell[4742, 106, 1486, 31, 325, "Input",ExpressionUUID->"aa562c65-173f-4a81-908b-23e6c584eb20"],
 Cell[CellGroupData[{
-Cell[129367, 2641, 239, 4, 30, "Input",ExpressionUUID->"70345c4c-96dd-4762-93e2-26bb313e4dc2"],
-Cell[129609, 2647, 5515, 115, 195, "Output",ExpressionUUID->"08863086-9879-4669-a669-d183fee2b387"]
+Cell[6253, 141, 219, 3, 30, "Input",ExpressionUUID->"82246a28-5b42-4c1d-9cc7-80ffe99561b4"],
+Cell[6475, 146, 13884, 316, 312, "Output",ExpressionUUID->"4d19af39-5ac7-4f04-9a44-46b569c1f3ed"]
 }, Open  ]],
-Cell[135139, 2765, 219, 5, 30, "Input",ExpressionUUID->"c77512fa-841e-4e73-b89b-bcdeae453b5e"],
+Cell[20374, 465, 530, 10, 30, "Input",ExpressionUUID->"17eabd13-4f69-40c9-8dc7-619a74e229d6"],
 Cell[CellGroupData[{
-Cell[135383, 2774, 260, 5, 30, "Input",ExpressionUUID->"a33965b2-601b-4253-b86a-294b646b1a18"],
-Cell[135646, 2781, 232, 5, 34, "Output",ExpressionUUID->"13f5241d-7137-45a0-9cbb-7c28d89f97b4"]
+Cell[20929, 479, 238, 4, 30, "Input",ExpressionUUID->"4e2a7cce-53e6-4f95-bb26-c3e54c50b9f3"],
+Cell[21170, 485, 220, 4, 34, "Output",ExpressionUUID->"1c971248-3565-4fac-8373-d9eb8a5a200f"]
 }, Open  ]],
+Cell[21405, 492, 176, 2, 30, "Input",ExpressionUUID->"8fe39163-8e27-4295-8436-d44083d21954"],
+Cell[21584, 496, 334, 7, 30, "Input",ExpressionUUID->"5365185d-3dd5-4445-9f7c-2775db13737b"],
+Cell[21921, 505, 262, 5, 30, "Input",ExpressionUUID->"77da8266-0bea-4ab3-b60d-7a2ccb14b0c2"],
 Cell[CellGroupData[{
-Cell[135915, 2791, 206, 4, 30, "Input",ExpressionUUID->"bb8e23a5-251b-4b63-a673-0505d2b97e03"],
-Cell[136124, 2797, 4650, 98, 147, "Output",ExpressionUUID->"336a0935-a07c-4126-9a33-c1fd06cf5f94"]
-}, Open  ]],
-Cell[CellGroupData[{
-Cell[140811, 2900, 440, 11, 30, "Input",ExpressionUUID->"fc2ff3f6-f941-4dba-af51-915daf6ffd14"],
-Cell[141254, 2913, 51078, 956, 64, "Output",ExpressionUUID->"52def2a3-8f19-4d94-8e0f-25ff72af79b5"]
-}, Open  ]],
-Cell[CellGroupData[{
-Cell[192369, 3874, 449, 11, 70, "Input",ExpressionUUID->"45b8c08a-2fc0-4059-914d-78c81b3c9847"],
-Cell[192821, 3887, 52609, 986, 70, "Output",ExpressionUUID->"36ada162-8184-4c35-855e-1b2ede3c923d"]
+Cell[22208, 514, 369, 8, 30, "Input",ExpressionUUID->"b7077b66-b407-4cbe-a686-54acb086a966"],
+Cell[22580, 524, 44948, 865, 96, "Output",ExpressionUUID->"ef9c346a-3072-4819-9c09-f6d80c5495eb"]
 }, Open  ]],
 Cell[CellGroupData[{
-Cell[245467, 4878, 230, 4, 70, "Input",ExpressionUUID->"711edcdc-36dd-4dc8-9c5c-b54eb99a4cd7"],
-Cell[245700, 4884, 158170, 2981, 70, "Output",ExpressionUUID->"b76340a8-9eac-4c69-ae0f-c5e1fc88bc51"]
+Cell[67565, 1394, 535, 12, 94, "Input",ExpressionUUID->"12021258-037c-4c75-81b9-cdd93ee38fb2"],
+Cell[68103, 1408, 51220, 959, 96, "Output",ExpressionUUID->"6323170b-334c-4d0c-8e0e-9811ab625b98"]
+}, Open  ]],
+Cell[119338, 2370, 225, 4, 30, "Input",ExpressionUUID->"18f8e64e-2a25-442b-bdc9-4b1f19fb5aee"],
+Cell[CellGroupData[{
+Cell[119588, 2378, 239, 4, 30, "Input",ExpressionUUID->"70345c4c-96dd-4762-93e2-26bb313e4dc2"],
+Cell[119830, 2384, 5515, 115, 195, "Output",ExpressionUUID->"08863086-9879-4669-a669-d183fee2b387"]
+}, Open  ]],
+Cell[125360, 2502, 219, 5, 30, "Input",ExpressionUUID->"c77512fa-841e-4e73-b89b-bcdeae453b5e"],
+Cell[CellGroupData[{
+Cell[125604, 2511, 260, 5, 30, "Input",ExpressionUUID->"a33965b2-601b-4253-b86a-294b646b1a18"],
+Cell[125867, 2518, 232, 5, 34, "Output",ExpressionUUID->"13f5241d-7137-45a0-9cbb-7c28d89f97b4"]
 }, Open  ]],
 Cell[CellGroupData[{
-Cell[403907, 7870, 326, 6, 70, "Input",ExpressionUUID->"8cf9adc2-9af9-4589-9151-bc3ffe7c9662"],
-Cell[404236, 7878, 571, 14, 70, "Output",ExpressionUUID->"84935092-ef4d-4434-9d75-768ac1e1550e"]
+Cell[126136, 2528, 206, 4, 30, "Input",ExpressionUUID->"bb8e23a5-251b-4b63-a673-0505d2b97e03"],
+Cell[126345, 2534, 4650, 98, 147, "Output",ExpressionUUID->"336a0935-a07c-4126-9a33-c1fd06cf5f94"]
 }, Open  ]],
 Cell[CellGroupData[{
-Cell[404844, 7897, 616, 13, 70, "Input",ExpressionUUID->"0aa056a5-2a01-411b-aa2a-53c5f8196964"],
-Cell[405463, 7912, 373, 8, 70, "Output",ExpressionUUID->"d049f548-7993-4b4f-aabd-b1e649415449"]
+Cell[131032, 2637, 440, 11, 30, "Input",ExpressionUUID->"fc2ff3f6-f941-4dba-af51-915daf6ffd14"],
+Cell[131475, 2650, 51078, 956, 64, "Output",ExpressionUUID->"52def2a3-8f19-4d94-8e0f-25ff72af79b5"]
 }, Open  ]],
 Cell[CellGroupData[{
-Cell[405873, 7925, 274, 4, 70, "Input",ExpressionUUID->"baf6d4f9-f64a-4967-b0ea-9de1d8396f63"],
-Cell[406150, 7931, 276, 4, 70, "Output",ExpressionUUID->"895a7184-ce76-471b-aaee-a824c445b087"]
+Cell[182590, 3611, 449, 11, 70, "Input",ExpressionUUID->"45b8c08a-2fc0-4059-914d-78c81b3c9847"],
+Cell[183042, 3624, 52609, 986, 70, "Output",ExpressionUUID->"36ada162-8184-4c35-855e-1b2ede3c923d"]
 }, Open  ]],
 Cell[CellGroupData[{
-Cell[406463, 7940, 481, 10, 70, "Input",ExpressionUUID->"d1323295-4fa8-47c1-8de6-777dc2e29ccf"],
-Cell[406947, 7952, 324, 7, 70, "Output",ExpressionUUID->"bae16d76-23fe-4d32-8b85-21a01508de58"]
+Cell[235688, 4615, 230, 4, 70, "Input",ExpressionUUID->"711edcdc-36dd-4dc8-9c5c-b54eb99a4cd7"],
+Cell[235921, 4621, 158170, 2981, 70, "Output",ExpressionUUID->"b76340a8-9eac-4c69-ae0f-c5e1fc88bc51"]
 }, Open  ]],
 Cell[CellGroupData[{
-Cell[407308, 7964, 490, 10, 70, "Input",ExpressionUUID->"42cc34a0-5d9b-43d9-87ef-868a00a472d8"],
-Cell[407801, 7976, 305, 4, 70, "Output",ExpressionUUID->"23c3e67a-5efc-4c34-8958-90531e8497a7"]
+Cell[394128, 7607, 326, 6, 70, "Input",ExpressionUUID->"8cf9adc2-9af9-4589-9151-bc3ffe7c9662"],
+Cell[394457, 7615, 571, 14, 70, "Output",ExpressionUUID->"84935092-ef4d-4434-9d75-768ac1e1550e"]
 }, Open  ]],
 Cell[CellGroupData[{
-Cell[408143, 7985, 560, 10, 70, "Input",ExpressionUUID->"3f2c6026-dda8-481f-9b55-29c962460384"],
-Cell[408706, 7997, 177, 2, 70, "Output",ExpressionUUID->"e66fc2a9-5d3e-4dcf-91c6-f88ab52dfe84"]
+Cell[395065, 7634, 616, 13, 70, "Input",ExpressionUUID->"0aa056a5-2a01-411b-aa2a-53c5f8196964"],
+Cell[395684, 7649, 373, 8, 70, "Output",ExpressionUUID->"d049f548-7993-4b4f-aabd-b1e649415449"]
 }, Open  ]],
 Cell[CellGroupData[{
-Cell[408920, 8004, 294, 5, 70, "Input",ExpressionUUID->"c095af8d-f88b-4815-92eb-d96f4aa47457"],
-Cell[409217, 8011, 239, 3, 70, "Output",ExpressionUUID->"01fefd1d-f8cb-494a-8b58-7b188a400cd5"]
+Cell[396094, 7662, 274, 4, 70, "Input",ExpressionUUID->"baf6d4f9-f64a-4967-b0ea-9de1d8396f63"],
+Cell[396371, 7668, 276, 4, 70, "Output",ExpressionUUID->"895a7184-ce76-471b-aaee-a824c445b087"]
 }, Open  ]],
 Cell[CellGroupData[{
-Cell[409493, 8019, 526, 10, 70, "Input",ExpressionUUID->"f6c93bb2-091f-41fb-9307-7316da7d1061"],
-Cell[410022, 8031, 265, 4, 70, "Output",ExpressionUUID->"b523ad90-56ec-4da6-b817-93288fdecbf9"]
+Cell[396684, 7677, 481, 10, 70, "Input",ExpressionUUID->"d1323295-4fa8-47c1-8de6-777dc2e29ccf"],
+Cell[397168, 7689, 324, 7, 70, "Output",ExpressionUUID->"bae16d76-23fe-4d32-8b85-21a01508de58"]
 }, Open  ]],
 Cell[CellGroupData[{
-Cell[410324, 8040, 535, 10, 70, "Input",ExpressionUUID->"749fd4fc-48af-4a62-8bcc-0d3f7d904745"],
-Cell[410862, 8052, 190, 2, 70, "Output",ExpressionUUID->"59c2c700-d7a4-4ea5-af75-b3cb33fac086"]
+Cell[397529, 7701, 490, 10, 70, "Input",ExpressionUUID->"42cc34a0-5d9b-43d9-87ef-868a00a472d8"],
+Cell[398022, 7713, 305, 4, 70, "Output",ExpressionUUID->"23c3e67a-5efc-4c34-8958-90531e8497a7"]
 }, Open  ]],
 Cell[CellGroupData[{
-Cell[411089, 8059, 259, 4, 70, "Input",ExpressionUUID->"aaab62a0-056f-4b42-8604-43c44147f646"],
-Cell[411351, 8065, 190, 2, 70, "Output",ExpressionUUID->"0e637811-f776-495f-8047-0ce5f4265fff"]
+Cell[398364, 7722, 560, 10, 70, "Input",ExpressionUUID->"3f2c6026-dda8-481f-9b55-29c962460384"],
+Cell[398927, 7734, 177, 2, 70, "Output",ExpressionUUID->"e66fc2a9-5d3e-4dcf-91c6-f88ab52dfe84"]
 }, Open  ]],
 Cell[CellGroupData[{
-Cell[411578, 8072, 223, 3, 70, "Input",ExpressionUUID->"da69e355-67c5-4043-9ed8-183132f5fd74"],
-Cell[411804, 8077, 166, 3, 70, "Output",ExpressionUUID->"96be94a5-9122-4f4f-bad7-8badb1f6c2bb"]
+Cell[399141, 7741, 294, 5, 70, "Input",ExpressionUUID->"c095af8d-f88b-4815-92eb-d96f4aa47457"],
+Cell[399438, 7748, 239, 3, 70, "Output",ExpressionUUID->"01fefd1d-f8cb-494a-8b58-7b188a400cd5"]
 }, Open  ]],
 Cell[CellGroupData[{
-Cell[412007, 8085, 202, 3, 70, "Input",ExpressionUUID->"cd08825f-92c3-438c-b768-c1494ba1049b"],
-Cell[412212, 8090, 16093, 390, 70, "Output",ExpressionUUID->"99177a1b-27ee-4694-8a77-3ccf8001027c"]
+Cell[399714, 7756, 526, 10, 70, "Input",ExpressionUUID->"f6c93bb2-091f-41fb-9307-7316da7d1061"],
+Cell[400243, 7768, 265, 4, 70, "Output",ExpressionUUID->"b523ad90-56ec-4da6-b817-93288fdecbf9"]
 }, Open  ]],
 Cell[CellGroupData[{
-Cell[428342, 8485, 262, 5, 70, "Input",ExpressionUUID->"80755e88-991f-4794-b9d9-27000b7353c2"],
-Cell[428607, 8492, 51019, 748, 70, "Message",ExpressionUUID->"fe675378-8fdc-49e7-9eac-7d9dbc8c2796"],
-Cell[479629, 9242, 155, 2, 70, "Output",ExpressionUUID->"7e9d2f1d-52a9-4e48-86a2-4bcb93e11a21"]
-}, Open  ]],
-Cell[479799, 9247, 164, 3, 70, "Input",ExpressionUUID->"5dbd453d-6663-4717-bef8-b788ae6b1c3c"],
-Cell[CellGroupData[{
-Cell[479988, 9254, 352, 6, 70, "Input",ExpressionUUID->"386303b2-ca3a-4ef9-b8b6-000b1193ef7b"],
-Cell[480343, 9262, 51065, 749, 70, "Message",ExpressionUUID->"0f8a65ae-761c-48b5-ad1f-c38798509016"],
-Cell[531411, 10013, 179, 2, 70, "Output",ExpressionUUID->"6fbd6ad0-0811-45b6-918f-fbfb5d315dbb"]
+Cell[400545, 7777, 535, 10, 70, "Input",ExpressionUUID->"749fd4fc-48af-4a62-8bcc-0d3f7d904745"],
+Cell[401083, 7789, 190, 2, 70, "Output",ExpressionUUID->"59c2c700-d7a4-4ea5-af75-b3cb33fac086"]
 }, Open  ]],
 Cell[CellGroupData[{
-Cell[531627, 10020, 220, 3, 70, "Input",ExpressionUUID->"c4050a80-1183-4686-99ef-8f300671a531"],
-Cell[531850, 10025, 51003, 949, 70, "Output",ExpressionUUID->"1151ae56-4cf1-4248-b03e-837de56cd00a"]
+Cell[401310, 7796, 259, 4, 70, "Input",ExpressionUUID->"aaab62a0-056f-4b42-8604-43c44147f646"],
+Cell[401572, 7802, 190, 2, 70, "Output",ExpressionUUID->"0e637811-f776-495f-8047-0ce5f4265fff"]
 }, Open  ]],
 Cell[CellGroupData[{
-Cell[582890, 10979, 221, 3, 70, "Input",ExpressionUUID->"33dd5ba0-db60-4f97-8906-4da4fe8d61ca"],
-Cell[583114, 10984, 166, 3, 70, "Output",ExpressionUUID->"fbb97fc3-956b-410e-8681-f8eb2f4a2047"]
+Cell[401799, 7809, 223, 3, 70, "Input",ExpressionUUID->"da69e355-67c5-4043-9ed8-183132f5fd74"],
+Cell[402025, 7814, 166, 3, 70, "Output",ExpressionUUID->"96be94a5-9122-4f4f-bad7-8badb1f6c2bb"]
 }, Open  ]],
 Cell[CellGroupData[{
-Cell[583317, 10992, 219, 3, 70, "Input",ExpressionUUID->"001a49d1-e086-4ba9-82da-5dd00ac1c576"],
-Cell[583539, 10997, 166, 3, 70, "Output",ExpressionUUID->"31ff45c3-81cf-4309-b4a7-1d72a6d7670c"]
+Cell[402228, 7822, 202, 3, 70, "Input",ExpressionUUID->"cd08825f-92c3-438c-b768-c1494ba1049b"],
+Cell[402433, 7827, 16093, 390, 70, "Output",ExpressionUUID->"99177a1b-27ee-4694-8a77-3ccf8001027c"]
 }, Open  ]],
 Cell[CellGroupData[{
-Cell[583742, 11005, 237, 4, 70, "Input",ExpressionUUID->"fd65f0e2-522b-43c4-9c19-dc406b8606a2"],
-Cell[583982, 11011, 51019, 748, 70, "Message",ExpressionUUID->"1b7410f7-1956-4ed2-b1b0-d05b9cdd3d1d"],
-Cell[635004, 11761, 155, 2, 70, "Output",ExpressionUUID->"501c23a0-9c27-4411-b0e4-41234d878322"]
+Cell[418563, 8222, 262, 5, 70, "Input",ExpressionUUID->"80755e88-991f-4794-b9d9-27000b7353c2"],
+Cell[418828, 8229, 51019, 748, 70, "Message",ExpressionUUID->"fe675378-8fdc-49e7-9eac-7d9dbc8c2796"],
+Cell[469850, 8979, 155, 2, 70, "Output",ExpressionUUID->"7e9d2f1d-52a9-4e48-86a2-4bcb93e11a21"]
 }, Open  ]],
-Cell[635174, 11766, 165, 3, 70, "Input",ExpressionUUID->"56805a70-4011-46d4-84e1-b9ae33e231ab"]
+Cell[470020, 8984, 164, 3, 70, "Input",ExpressionUUID->"5dbd453d-6663-4717-bef8-b788ae6b1c3c"],
+Cell[CellGroupData[{
+Cell[470209, 8991, 352, 6, 70, "Input",ExpressionUUID->"386303b2-ca3a-4ef9-b8b6-000b1193ef7b"],
+Cell[470564, 8999, 51065, 749, 70, "Message",ExpressionUUID->"0f8a65ae-761c-48b5-ad1f-c38798509016"],
+Cell[521632, 9750, 179, 2, 70, "Output",ExpressionUUID->"6fbd6ad0-0811-45b6-918f-fbfb5d315dbb"]
+}, Open  ]],
+Cell[CellGroupData[{
+Cell[521848, 9757, 220, 3, 70, "Input",ExpressionUUID->"c4050a80-1183-4686-99ef-8f300671a531"],
+Cell[522071, 9762, 51003, 949, 70, "Output",ExpressionUUID->"1151ae56-4cf1-4248-b03e-837de56cd00a"]
+}, Open  ]],
+Cell[CellGroupData[{
+Cell[573111, 10716, 221, 3, 70, "Input",ExpressionUUID->"33dd5ba0-db60-4f97-8906-4da4fe8d61ca"],
+Cell[573335, 10721, 166, 3, 70, "Output",ExpressionUUID->"fbb97fc3-956b-410e-8681-f8eb2f4a2047"]
+}, Open  ]],
+Cell[CellGroupData[{
+Cell[573538, 10729, 219, 3, 70, "Input",ExpressionUUID->"001a49d1-e086-4ba9-82da-5dd00ac1c576"],
+Cell[573760, 10734, 166, 3, 70, "Output",ExpressionUUID->"31ff45c3-81cf-4309-b4a7-1d72a6d7670c"]
+}, Open  ]],
+Cell[CellGroupData[{
+Cell[573963, 10742, 237, 4, 70, "Input",ExpressionUUID->"fd65f0e2-522b-43c4-9c19-dc406b8606a2"],
+Cell[574203, 10748, 51019, 748, 70, "Message",ExpressionUUID->"1b7410f7-1956-4ed2-b1b0-d05b9cdd3d1d"],
+Cell[625225, 11498, 155, 2, 70, "Output",ExpressionUUID->"501c23a0-9c27-4411-b0e4-41234d878322"]
+}, Open  ]],
+Cell[625395, 11503, 165, 3, 70, "Input",ExpressionUUID->"56805a70-4011-46d4-84e1-b9ae33e231ab"]
 }
 ]
 *)
-
-(* End of internal cache information *)
 
