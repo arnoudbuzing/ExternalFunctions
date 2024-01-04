@@ -25,6 +25,9 @@ KhatriRaoProduct;
 KroghInterpolation;
 NewtonCotes;
 BirchClusterPredict;
+OlivettiFaces;
+CaliforniaHousing;
+ForestCoverTypes;
 
 Begin["`Private`"];
 
