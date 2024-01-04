@@ -5,7 +5,7 @@ PacletObject[
     "Creator" -> "Arnoud Buzing",
     "License" -> "MIT",
     "PublisherID" -> "ArnoudBuzing",
-    "Version" -> "1.0.7",
+    "Version" -> "1.0.8",
     "WolframVersion" -> "14+",
     "PrimaryContext" -> "ArnoudBuzing`ExternalFunctions`",
     "DocumentationURL" -> "https://resources.wolframcloud.com/PacletRepository/resources",
@@ -26,7 +26,11 @@ PacletObject[
           "ArnoudBuzing`ExternalFunctions`AcentricFactor",
           "ArnoudBuzing`ExternalFunctions`StielPolarFactor",
           "ArnoudBuzing`ExternalFunctions`LeeKeslerOmega",
-          "ArnoudBuzing`ExternalFunctions`KeplerLightCurves"
+          "ArnoudBuzing`ExternalFunctions`KeplerLightCurves",
+          "ArnoudBuzing`ExternalFunctions`Degrees",
+          "ArnoudBuzing`ExternalFunctions`Radians",
+          "ArnoudBuzing`ExternalFunctions`UnicodeName",
+          "ArnoudBuzing`ExternalFunctions`UnicodeLookup"
         
         }
       },

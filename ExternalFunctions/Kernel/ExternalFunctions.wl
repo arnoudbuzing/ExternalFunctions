@@ -16,7 +16,11 @@ AcentricFactor;
 StielPolarFactor;
 LeeKeslerOmega;
 KeplerLightCurves;
-
+Degrees;
+Radians;
+UnicodeName;
+UnicodeLookup;
+TextWrap;
 
 Begin["`Private`"];
 
@@ -27,7 +31,7 @@ PythonSessionGet[id_String, deps_List, prolog_String : ""] := SelectFirst[
     "Python",
     "ID" -> id,
     "Evaluator" -> <|
-      "Dependencies" -> deps,
+      "Dependencies" -> Complement[deps,{"math","unicodedata","textwrap"}],
       "EnvironmentName" -> id,
       "PythonRuntime" -> "3.11"
       |>,
@@ -52,6 +56,7 @@ LoadExternalFunction["Python", fun_String, extra_String : ""] := Module[{compone
 Get[ FileNameJoin[{DirectoryName[$InputFileName], "Mathematics.wl"}]];
 Get[ FileNameJoin[{DirectoryName[$InputFileName], "Chemistry.wl"}]];
 Get[ FileNameJoin[{DirectoryName[$InputFileName], "Astronomy.wl"}]];
+Get[ FileNameJoin[{DirectoryName[$InputFileName], "TextProcessing.wl"}]];
 
 End[];
 EndPackage[];

@@ -1,3 +1,8 @@
+(* Angular conversion *)
+
+Degrees[radians_] := LoadExternalFunction["Python","math.degrees"][N[radians]];
+Radians[degrees_] := LoadExternalFunction["Python","math.radians"][N[degrees]];
+
 (* Fourier Transforms *)
 FastFourierTransform[args___] := Normal @ LoadExternalFunction["Python", "scipy.fft.fft"][args];
 InverseFastFourierTransform[args___] := Normal @ LoadExternalFunction["Python", "scipy.fft.ifft"][args];
