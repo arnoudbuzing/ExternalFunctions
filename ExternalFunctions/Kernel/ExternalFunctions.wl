@@ -24,7 +24,7 @@ TextWrap;
 KhatriRaoProduct;
 KroghInterpolation;
 NewtonCotes;
-BirchClusterFit;
+BirchClusterPredict;
 
 Begin["`Private`"];
 
@@ -35,7 +35,7 @@ PythonSessionGet[id_String, deps_List, prolog_String : ""] := SelectFirst[
     "Python",
     "ID" -> id,
     "Evaluator" -> <|
-      "Dependencies" -> Complement[deps,{"math","unicodedata","textwrap"}],
+      "Dependencies" -> Complement[deps,{"math","unicodedata","textwrap"}] /. { "sklearn" -> "scikit-learn" },
       "EnvironmentName" -> id,
       "PythonRuntime" -> "3.11"
       |>,

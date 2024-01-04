@@ -5,7 +5,7 @@ PacletObject[
     "Creator" -> "Arnoud Buzing",
     "License" -> "MIT",
     "PublisherID" -> "ArnoudBuzing",
-    "Version" -> "1.0.9",
+    "Version" -> "1.1.0",
     "WolframVersion" -> "14+",
     "PrimaryContext" -> "ArnoudBuzing`ExternalFunctions`",
     "DocumentationURL" -> "https://resources.wolframcloud.com/PacletRepository/resources",
@@ -34,7 +34,8 @@ PacletObject[
           "ArnoudBuzing`ExternalFunctions`TextWrap",
           "ArnoudBuzing`ExternalFunctions`KhatriRaoProduct",
           "ArnoudBuzing`ExternalFunctions`KroghInterpolation",
-          "ArnoudBuzing`ExternalFunctions`NewtonCotes"        
+          "ArnoudBuzing`ExternalFunctions`NewtonCotes",
+          "ArnoudBuzing`ExternalFunctions`BirchClusterPredict"
         }
       },
       {
