@@ -10,10 +10,10 @@
 NotebookFileLineBreakTest
 NotebookFileLineBreakTest
 NotebookDataPosition[       158,          7]
-NotebookDataLength[     13052,        338]
-NotebookOptionsPosition[      8967,        251]
-NotebookOutlinePosition[      9504,        269]
-CellTagsIndexPosition[      9461,        266]
+NotebookDataLength[     16367,        421]
+NotebookOptionsPosition[     11423,        316]
+NotebookOutlinePosition[     11960,        334]
+CellTagsIndexPosition[     11917,        331]
 WindowFrame->Normal*)
 
 (* Beginning of Notebook Content *)
@@ -167,6 +167,71 @@ Cell[TextData[{
  CellChangeTimes->{{3.912165886173986*^9, 3.912165923015997*^9}, {
   3.913219837129265*^9, 3.9132198371292872`*^9}},
  CellID->138498248,ExpressionUUID->"71fa3d08-dadc-48fa-a53f-f603a3c49ddd"]
+}, Open  ]],
+
+Cell[CellGroupData[{
+
+Cell["Linear Algebra", "GuideFunctionsSubsection",
+ CellChangeTimes->{{3.913382790977687*^9, 3.9133827938187304`*^9}},
+ CellID->1782328019,ExpressionUUID->"f3dd01e1-5911-47ad-9cc9-0c276cddedec"],
+
+Cell[TextData[{
+ Cell[BoxData[
+  ButtonBox["KhatriRaoProduct",
+   BaseStyle->"Link",
+   ButtonData->"paclet:ArnoudBuzing/ExternalFunctions/ref/KhatriRaoProduct"]],
+   "InlineGuideFunction",
+  TaggingRules->{"PageType" -> "Function"},
+  CellTags->"3b773603-b2d5-4d70-80d3-caf8c0ed134a",ExpressionUUID->
+  "860245c2-09d8-4d6c-b300-fc025dd30d50"],
+ " \[LongDash] compute the Khatri-Rao product of two matrices"
+}], "GuideText",
+ CellChangeTimes->{{3.913382799366186*^9, 3.913382821383954*^9}},
+ CellID->376800469,ExpressionUUID->"7e4ca08e-ec70-4b4f-858c-fdad0baca123"]
+}, Open  ]],
+
+Cell[CellGroupData[{
+
+Cell["Interpolation", "GuideFunctionsSubsection",
+ CellChangeTimes->{{3.913383955766573*^9, 3.91338395800635*^9}},
+ CellID->612048335,ExpressionUUID->"52da6293-406b-41b6-a46f-50988fc86e79"],
+
+Cell[TextData[{
+ Cell[BoxData[
+  ButtonBox["KroghInterpolation",
+   BaseStyle->"Link",
+   ButtonData->
+    "paclet:ArnoudBuzing/ExternalFunctions/ref/KroghInterpolation"]], 
+  "InlineGuideFunction",
+  TaggingRules->{"PageType" -> "Function"},
+  CellTags->"3b773603-b2d5-4d70-80d3-caf8c0ed134a",ExpressionUUID->
+  "0032be2d-9fde-4dc4-bf32-118dd69c8fc7"],
+ " \[LongDash] computes the Krogh interpolation of a set of points"
+}], "GuideText",
+ CellChangeTimes->{{3.913383964741292*^9, 3.913383995950728*^9}, {
+  3.9133852584709177`*^9, 3.913385260097824*^9}},
+ CellID->815967218,ExpressionUUID->"e1564171-25fe-4f06-9a5b-51fde33bf72e"]
+}, Open  ]],
+
+Cell[CellGroupData[{
+
+Cell["Numerical Integration", "GuideFunctionsSubsection",
+ CellChangeTimes->{{3.913385050436514*^9, 3.91338505423144*^9}},
+ CellID->1309446955,ExpressionUUID->"0e5f5c69-b7cd-4c26-a838-20865c047367"],
+
+Cell[TextData[{
+ Cell[BoxData[
+  ButtonBox["NewtonCotes",
+   BaseStyle->"Link",
+   ButtonData->"paclet:ArnoudBuzing/ExternalFunctions/ref/NewtonCotes"]], 
+  "InlineGuideFunction",
+  TaggingRules->{"PageType" -> "Function"},
+  CellTags->"0da90fe6-034a-4067-b9c3-1215981aa112",ExpressionUUID->
+  "83a6cf89-1f0e-4cc7-8ef3-6afddfa10c4c"],
+ " \[LongDash] compute Newton-Cotes weights and error coefficient"
+}], "GuideText",
+ CellChangeTimes->{{3.913385060292185*^9, 3.913385082058264*^9}},
+ CellID->1808654537,ExpressionUUID->"cd4d09ad-2aea-4a5c-afaf-f7e6b5165f09"]
 }, Open  ]]
 }, Open  ]],
 
@@ -296,47 +361,65 @@ Cell[5089, 138, 606, 14, 27, "GuideText",ExpressionUUID->"703f5e39-4b40-46f0-bc1
  CellID->321173184],
 Cell[5698, 154, 629, 14, 27, "GuideText",ExpressionUUID->"71fa3d08-dadc-48fa-a53f-f603a3c49ddd",
  CellID->138498248]
+}, Open  ]],
+Cell[CellGroupData[{
+Cell[6364, 173, 194, 2, 37, "GuideFunctionsSubsection",ExpressionUUID->"f3dd01e1-5911-47ad-9cc9-0c276cddedec",
+ CellID->1782328019],
+Cell[6561, 177, 565, 12, 27, "GuideText",ExpressionUUID->"7e4ca08e-ec70-4b4f-858c-fdad0baca123",
+ CellID->376800469]
+}, Open  ]],
+Cell[CellGroupData[{
+Cell[7163, 194, 189, 2, 37, "GuideFunctionsSubsection",ExpressionUUID->"52da6293-406b-41b6-a46f-50988fc86e79",
+ CellID->612048335],
+Cell[7355, 198, 630, 14, 27, "GuideText",ExpressionUUID->"e1564171-25fe-4f06-9a5b-51fde33bf72e",
+ CellID->815967218]
+}, Open  ]],
+Cell[CellGroupData[{
+Cell[8022, 217, 198, 2, 37, "GuideFunctionsSubsection",ExpressionUUID->"0e5f5c69-b7cd-4c26-a838-20865c047367",
+ CellID->1309446955],
+Cell[8223, 221, 560, 12, 27, "GuideText",ExpressionUUID->"cd4d09ad-2aea-4a5c-afaf-f7e6b5165f09",
+ CellID->1808654537]
 }, Open  ]]
 }, Open  ]],
 Cell[CellGroupData[{
-Cell[6376, 174, 119, 1, 74, "GuideTutorialsSection",ExpressionUUID->"f2a24df8-f693-435b-9453-3bf956e352e6",
+Cell[8832, 239, 119, 1, 74, "GuideTutorialsSection",ExpressionUUID->"f2a24df8-f693-435b-9453-3bf956e352e6",
  CellID->2011908430],
-Cell[6498, 177, 105, 1, 24, "GuideTutorial",ExpressionUUID->"4858e6f2-e192-4f2d-b327-55fffdd92863",
+Cell[8954, 242, 105, 1, 24, "GuideTutorial",ExpressionUUID->"4858e6f2-e192-4f2d-b327-55fffdd92863",
  CellID->2014960995],
-Cell[6606, 180, 105, 1, 24, "GuideTutorial",ExpressionUUID->"7f81207c-a4d8-4762-ae95-4859fa03dece",
+Cell[9062, 245, 105, 1, 24, "GuideTutorial",ExpressionUUID->"7f81207c-a4d8-4762-ae95-4859fa03dece",
  CellID->1779813422]
 }, Open  ]],
 Cell[CellGroupData[{
-Cell[6748, 186, 191, 2, 74, "GuideMoreAboutSection",ExpressionUUID->"21515d58-748a-4748-8895-d9ff8b178be5",
+Cell[9204, 251, 191, 2, 74, "GuideMoreAboutSection",ExpressionUUID->"21515d58-748a-4748-8895-d9ff8b178be5",
  CellID->1024464491],
-Cell[6942, 190, 106, 1, 24, "GuideMoreAbout",ExpressionUUID->"7fc2ccc2-93e2-488b-bccc-9bcaebb6e204",
+Cell[9398, 255, 106, 1, 24, "GuideMoreAbout",ExpressionUUID->"7fc2ccc2-93e2-488b-bccc-9bcaebb6e204",
  CellID->1798302238],
-Cell[7051, 193, 105, 1, 24, "GuideMoreAbout",ExpressionUUID->"b01178e6-b1ae-4d9e-ae98-0aad46ffda70",
+Cell[9507, 258, 105, 1, 24, "GuideMoreAbout",ExpressionUUID->"b01178e6-b1ae-4d9e-ae98-0aad46ffda70",
  CellID->380866188]
 }, Open  ]],
-Cell[7171, 197, 125, 1, 74, "GuideRelatedLinksSection",ExpressionUUID->"ccb5af42-9219-42c8-8e0d-85994a971ee5",
+Cell[9627, 262, 125, 1, 74, "GuideRelatedLinksSection",ExpressionUUID->"ccb5af42-9219-42c8-8e0d-85994a971ee5",
  CellID->1716753656],
 Cell[CellGroupData[{
-Cell[7321, 202, 111, 1, 72, "MetadataSection",ExpressionUUID->"f7d5d5f1-c3bc-4b33-bfa3-796cf3faf19c",
+Cell[9777, 267, 111, 1, 72, "MetadataSection",ExpressionUUID->"f7d5d5f1-c3bc-4b33-bfa3-796cf3faf19c",
  CellID->2035898947],
-Cell[7435, 205, 477, 12, 26, "History",ExpressionUUID->"5b95db2d-1ef5-4f9a-bd48-6958366636bc",
+Cell[9891, 270, 477, 12, 26, "History",ExpressionUUID->"5b95db2d-1ef5-4f9a-bd48-6958366636bc",
  CellID->1496654578],
 Cell[CellGroupData[{
-Cell[7937, 221, 122, 1, 21, "CategorizationSection",ExpressionUUID->"677a7bfa-aedd-4698-9851-41196b68e00a",
+Cell[10393, 286, 122, 1, 21, "CategorizationSection",ExpressionUUID->"677a7bfa-aedd-4698-9851-41196b68e00a",
  CellID->797535135],
-Cell[8062, 224, 134, 2, 70, "Categorization",ExpressionUUID->"c6c63b89-f24c-4871-a811-eb0a4cdf9181",
+Cell[10518, 289, 134, 2, 70, "Categorization",ExpressionUUID->"c6c63b89-f24c-4871-a811-eb0a4cdf9181",
  CellID->1727573018],
-Cell[8199, 228, 159, 2, 70, "Categorization",ExpressionUUID->"7de4ca00-c4f1-43b7-a1dd-0193accc7c86",
+Cell[10655, 293, 159, 2, 70, "Categorization",ExpressionUUID->"7de4ca00-c4f1-43b7-a1dd-0193accc7c86",
  CellID->1340806086],
-Cell[8361, 232, 156, 2, 70, "Categorization",ExpressionUUID->"98ba6299-674d-4690-beff-68e295eabb18",
+Cell[10817, 297, 156, 2, 70, "Categorization",ExpressionUUID->"98ba6299-674d-4690-beff-68e295eabb18",
  CellID->1381979431],
-Cell[8520, 236, 169, 2, 70, "Categorization",ExpressionUUID->"fe6f9b2a-0d57-4f85-b0f9-5057b867785f",
+Cell[10976, 301, 169, 2, 70, "Categorization",ExpressionUUID->"fe6f9b2a-0d57-4f85-b0f9-5057b867785f",
  CellID->1892654512]
 }, Closed]],
 Cell[CellGroupData[{
-Cell[8726, 243, 111, 1, 21, "KeywordsSection",ExpressionUUID->"c29fb173-8026-4320-ba78-465eb17c4b60",
+Cell[11182, 308, 111, 1, 21, "KeywordsSection",ExpressionUUID->"c29fb173-8026-4320-ba78-465eb17c4b60",
  CellID->1316603820],
-Cell[8840, 246, 99, 1, 70, "Keywords",ExpressionUUID->"bb5cbaa3-2898-4d93-b79f-64b56dd43fe0",
+Cell[11296, 311, 99, 1, 70, "Keywords",ExpressionUUID->"bb5cbaa3-2898-4d93-b79f-64b56dd43fe0",
  CellID->488904052]
 }, Closed]]
 }, Open  ]]

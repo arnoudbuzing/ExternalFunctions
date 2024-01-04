@@ -5,7 +5,7 @@ PacletObject[
     "Creator" -> "Arnoud Buzing",
     "License" -> "MIT",
     "PublisherID" -> "ArnoudBuzing",
-    "Version" -> "1.0.8",
+    "Version" -> "1.0.9",
     "WolframVersion" -> "14+",
     "PrimaryContext" -> "ArnoudBuzing`ExternalFunctions`",
     "DocumentationURL" -> "https://resources.wolframcloud.com/PacletRepository/resources",
@@ -31,8 +31,10 @@ PacletObject[
           "ArnoudBuzing`ExternalFunctions`Radians",
           "ArnoudBuzing`ExternalFunctions`UnicodeName",
           "ArnoudBuzing`ExternalFunctions`UnicodeLookup",
-          "ArnoudBuzing`ExternalFunctions`TextWrap"
-        
+          "ArnoudBuzing`ExternalFunctions`TextWrap",
+          "ArnoudBuzing`ExternalFunctions`KhatriRaoProduct",
+          "ArnoudBuzing`ExternalFunctions`KroghInterpolation",
+          "ArnoudBuzing`ExternalFunctions`NewtonCotes"        
         }
       },
       {

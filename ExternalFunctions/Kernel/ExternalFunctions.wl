@@ -21,6 +21,10 @@ Radians;
 UnicodeName;
 UnicodeLookup;
 TextWrap;
+KhatriRaoProduct;
+KroghInterpolation;
+NewtonCotes;
+BirchClusterFit;
 
 Begin["`Private`"];
 
@@ -57,6 +61,7 @@ Get[ FileNameJoin[{DirectoryName[$InputFileName], "Mathematics.wl"}]];
 Get[ FileNameJoin[{DirectoryName[$InputFileName], "Chemistry.wl"}]];
 Get[ FileNameJoin[{DirectoryName[$InputFileName], "Astronomy.wl"}]];
 Get[ FileNameJoin[{DirectoryName[$InputFileName], "TextProcessing.wl"}]];
+Get[ FileNameJoin[{DirectoryName[$InputFileName], "MachineLearning.wl"}]];
 
 End[];
 EndPackage[];
