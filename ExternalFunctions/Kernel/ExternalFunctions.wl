@@ -28,6 +28,8 @@ BirchClusterPredict;
 OlivettiFaces;
 CaliforniaHousing;
 ForestCoverTypes;
+FashionPersonImageSynthesize;
+
 
 Begin["`Private`"];
 
@@ -35,7 +37,7 @@ PythonSessionGet[id_String, deps_List, prolog_String : ""] := SelectFirst[
   ExternalSessions[],
   #["ID"] === id &,
   StartExternalSession[{
-    "Python",
+    {"Python","StandardErrorFunction"->Null},
     "ID" -> id,
     "Evaluator" -> <|
       "Dependencies" -> Complement[deps,{"math","unicodedata","textwrap"}] /. { "sklearn" -> "scikit-learn" },
