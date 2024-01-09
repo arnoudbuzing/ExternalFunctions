@@ -29,6 +29,7 @@ OlivettiFaces;
 CaliforniaHousing;
 ForestCoverTypes;
 FashionPersonImageSynthesize;
+CelebrityFaceImageSynthesize;
 
 
 Begin["`Private`"];

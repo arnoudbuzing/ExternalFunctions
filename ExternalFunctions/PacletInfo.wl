@@ -5,7 +5,7 @@ PacletObject[
     "Creator" -> "Arnoud Buzing",
     "License" -> "MIT",
     "PublisherID" -> "ArnoudBuzing",
-    "Version" -> "1.1.3",
+    "Version" -> "1.1.4",
     "WolframVersion" -> "14+",
     "PrimaryContext" -> "ArnoudBuzing`ExternalFunctions`",
     "DocumentationURL" -> "https://resources.wolframcloud.com/PacletRepository/resources",
@@ -39,7 +39,8 @@ PacletObject[
           "ArnoudBuzing`ExternalFunctions`OlivettiFaces",
           "ArnoudBuzing`ExternalFunctions`CaliforniaHousing",
           "ArnoudBuzing`ExternalFunctions`ForestCoverTypes",
-          "ArnoudBuzing`ExternalFunctions`FashionPersonImageSynthesize"
+          "ArnoudBuzing`ExternalFunctions`FashionPersonImageSynthesize",
+          "ArnoudBuzing`ExternalFunctions`CelebrityFaceImageSynthesize"
         }
       },
       {
