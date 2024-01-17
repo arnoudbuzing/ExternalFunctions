@@ -30,6 +30,7 @@ CaliforniaHousing;
 ForestCoverTypes;
 FashionPersonImageSynthesize;
 CelebrityFaceImageSynthesize;
+GeometricStandardDeviation;
 
 
 Begin["`Private`"];

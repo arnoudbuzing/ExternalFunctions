@@ -40,7 +40,8 @@ PacletObject[
           "ArnoudBuzing`ExternalFunctions`CaliforniaHousing",
           "ArnoudBuzing`ExternalFunctions`ForestCoverTypes",
           "ArnoudBuzing`ExternalFunctions`FashionPersonImageSynthesize",
-          "ArnoudBuzing`ExternalFunctions`CelebrityFaceImageSynthesize"
+          "ArnoudBuzing`ExternalFunctions`CelebrityFaceImageSynthesize",
+          "ArnoudBuzing`ExternalFunctions`GeometricStandardDeviation"
         }
       },
       {

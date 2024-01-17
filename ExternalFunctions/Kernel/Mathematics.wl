@@ -19,3 +19,7 @@ NewtonCotes[order_] := Module[{w,e},
     {w,e} = LoadExternalFunction["Python", "scipy.integrate.newton_cotes"][order];
     <| "Weights" -> Normal[w], "ErrorCoefficient" -> e |>
     ]
+
+(* Statistics *)
+
+GeometricStandardDeviation[args___] := Normal @ LoadExternalFunction["Python", "scipy.stats.gstd"][args]
