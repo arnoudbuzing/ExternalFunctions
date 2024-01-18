@@ -23,3 +23,5 @@ NewtonCotes[order_] := Module[{w,e},
 (* Statistics *)
 
 GeometricStandardDeviation[args___] := Normal @ LoadExternalFunction["Python", "scipy.stats.gstd"][args]
+
+EppsSingletonTestStatistic[args___] := Normal @ LoadExternalFunction["Python", "scipy.stats.epps_singleton_2samp"][args]

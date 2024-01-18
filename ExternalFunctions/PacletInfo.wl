@@ -41,7 +41,8 @@ PacletObject[
           "ArnoudBuzing`ExternalFunctions`ForestCoverTypes",
           "ArnoudBuzing`ExternalFunctions`FashionPersonImageSynthesize",
           "ArnoudBuzing`ExternalFunctions`CelebrityFaceImageSynthesize",
-          "ArnoudBuzing`ExternalFunctions`GeometricStandardDeviation"
+          "ArnoudBuzing`ExternalFunctions`GeometricStandardDeviation",
+          "ArnoudBuzing`ExternalFunctions`EppsSingletonTestStatistic"
         }
       },
       {

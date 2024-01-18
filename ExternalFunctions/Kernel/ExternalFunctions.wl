@@ -31,6 +31,7 @@ ForestCoverTypes;
 FashionPersonImageSynthesize;
 CelebrityFaceImageSynthesize;
 GeometricStandardDeviation;
+EppsSingletonTestStatistic;
 
 
 Begin["`Private`"];
